@@ -1,0 +1,18 @@
+Atom number		: 111 
+Atom mass		: [272] g/mol  
+Group No: 11  
+Group Name: Transactinides  
+Block: d-block  
+Period: 7  
+State: presumably a solid at 298 K  
+Colour: Unknown, but probably metallic and silvery white or grey in appearance. Man made radioactive metal. 
+Classification: Metallic  
+Availability: Roentgenium is not commercially available 
+
+	Discovery Information  
+Who: GSI 
+When: 1994 
+Where: Darmstadt, West Germany 
+
+	Sources  
+Only a few atoms of element 111 have ever been made through a nuclear reaction involving fusion of an isotope of bismuth, 209Bi, with one of nickel, 64Ni. Isolation of an observable quantity has never been achieved, and may well never be.  

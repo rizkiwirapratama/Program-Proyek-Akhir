@@ -1,0 +1,50 @@
+Atom number				: 39
+Atom mass				: 88.90585 (2) g/mol  
+Group No: 3  
+Group Name: Transition metals  
+Block: d-block  
+Period: 5  
+State: solid at 298 K  
+Colour: silvery white 
+Classification: Metallic  
+Boiling Point: 3609K  
+Melting Point: 1799K 
+Superconducting temperature: 1.3K (under pressure)  
+Density: 4.472g/cm3 
+
+Atomic Volume: 19.8 cm3 mol^-1 
+Electronegativity: 1.22 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: 6.66 x 10^-8 
+Molar magnetic susceptibility: 5.921 x 10^-9 
+Speed of sound: 3300 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 418 kJ mol^-1  
+Enthalpy of Fusion: 17.2 kJ mol^-1 
+Enthalpy of Vaporisation: 367.4 kJ mol^-1 
+Heat Capacity: 26.54 J mol^-1 K^-1 
+Thermal Conductivity: 17.2 W m^-1 K^-1 
+Thermal Expansion: 10.6 um m^-1 K^-1 
+Critcal Temperature: No data. 
+ 
+	Hardness 
+Brinell hardness: 589 MPa 
+
+	Elastic Properties 
+Bulk modulus: 41.2 GPa 
+Poisson ratio: 0.243 
+Shear modulus: 35.6 GPa 
+Young's modulus: 63.5 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 5.6 x 10^-7 ohm m  
+Electrical conductivity: 0.0166 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.1057 g Ah^-1 
+Electron Work Function: 3.1 eV 
+Valence Electron Potential: (-eV) 48 
+Ionization Potential : First  6.38, Second  12.24, Third  20.52 
+Incompatibilities :Oxidizers. 
+Flammability :Non-combustible solid (except as dust)  

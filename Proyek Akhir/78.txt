@@ -1,0 +1,52 @@
+Atom number				: 78  
+Atom mass				: 195.078 g/mol  
+Group No: 10  
+Group Name: Precious metal or platinum group metal  
+Block: d-block  
+Period: 6  
+State: solid at 298 K  
+Colour: greyish white 
+Classification: Metallic  
+Boiling Point: 4098K  
+Melting Point: 2041.4K
+Critical temperature: 0K 
+Superconducting temperature: 0K 
+Density: 21.45g/cm3 
+
+Atomic Volume: 9.09 cm3 mol^-1 
+Electronegativity: 2.28 
+Magnetic ordering: Paramagnetic 
+Mass magnetic susceptibility: 1.22 x 10^-8 
+Molar magnetic susceptibility: 2.38 x 10^-9 
+Speed of sound: 2800 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 565 kJ mol-1 
+Enthalpy of Fusion: 19.7 kJ mol^-1 
+Enthalpy of Vaporisation: 469 kJ mol^-1 
+Heat Capacity: 25.86 J mol^-1 K^-1 
+Thermal Conductivity: 71.6 W m^-1 K^-1 
+Thermal Expansion: 8.8 um m^-1 K^-1 
+Critcal Temperature: 0 K 
+
+	Hardness 
+Brinell hardness: 392 MPa 
+Mohs hardness: 3.5 
+Vickers hardness: 549 MPa 
+
+	Elastic Properties 
+Bulk modulus: 230 GPa 
+Poisson ratio: 0.38 
+Shear modulus: 61 GPa 
+Young's modulus: 168 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 1.06 x 10^-7 ohm m  
+Electrical conductivity: 0.0966 10^6/cm ohm 
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.8197 g Ah^-1 
+Electron Work Function: 5.65 eV 
+Valence Electron Potential (-eV): 92.2 
+Ionization Potential  : First  9, Second  18.563 
+Incompatibilities : Aluminium, acetone (CH3COCH3), arsenic, ethane (C2H6), hydrazine (N2H4), hydrogen peroxide (H2O2), lithium, phosphorus, selenium, tellurium, various fluorides. 

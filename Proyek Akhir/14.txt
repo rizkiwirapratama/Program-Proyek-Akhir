@@ -1,0 +1,45 @@
+Atom number				: 14 
+Atom mass				: 28.0855 g/mol  
+Group No				: 14  
+Group Name				: Metalloids  
+Block					: p-block
+Period					: 3  
+State					: solid at 298 K  
+Colour					: dark grey with a bluish tinge Classification: Semi-metallic  
+Boiling Point				: 3173K 
+Melting Point				: 1687K  
+Density					: 2.33g/cm3 
+
+Atomic Volume				: 12.1 cm3 mol^-1 
+Electronegativity			: 1.90 
+Magnetic ordering			: Non-magnetic 
+Mass magnetic susceptibility		: -1.6 x 10^-9 
+Molar magnetic susceptibility		: -4.49 x 10^-11 
+Speed of sound				: 8433 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization			: 439.3 kJ mol^-1  
+Enthalpy of Fusion			: 39.6 kJ mol^-1 
+Enthalpy of Vaporisation		: 383.3 kJ mol^-1 
+Heat Capacity				: 19.789 J mol^-1 K-1 
+Thermal Conductivity			: 149 W m^-1 K^-1 
+Thermal Expansion			: 2.6 um m^-1 K^-1 
+Critcal Temperature			: No data. 
+ 
+	Hardness 
+Mohs hardness				: 6.5 
+
+	Elastic Properties 
+Bulk modulus				: 100 GPa 
+Young's modulus				: 47 GPa 
+
+	Electrical Properties 
+Electrical resistivity 			: No data. 
+Electrical conductivity			: 2.52 x 10^-12 10^6/cm ohm
+
+	Chemical Properties 
+Electrochemical Equivalent		: 0.26197 g Ah^-1 
+Electron Work Function			: 4.52 eV 
+Valence Electron Potential (-eV)	: 144 
+Ionization Potential   			: First  8.151, Second  16.345, Third  33.492 
+Incompatibilities			: Chlorine, fluorine, oxidizers, calcium, caesium carbide (Cs2C2), alkaline carbonates. 

@@ -1,0 +1,18 @@
+Atom number		: 104 
+Atom mass		: [261] g/mol  
+Group No		: 4  
+Group Name		: Transactinides  
+Block			: d-block  
+Period			: 7  
+State			: presumably a solid  
+Colour			: unknown, but probably metallic and silvery white or grey in appearance 
+Classification		: Metallic   
+Availability		: Rutherfordium is a synthetic element that is not present in the environment at all. 
+
+	Discovery Information  
+Who			: A. Ghiorso, Nurmia, Harris, K.A.Y. Eskola, and P.L. Eskola  
+When			: 1969 
+Where			: Berkeley California 
+
+	Sources  
+Bombarding plutonium with accelerated 113 to 115 MeV Neon ions. Also by bombarding a target of Cf249 with C12 nuclei of 71 MeV, and C13 nuclei of 69 MeV.  

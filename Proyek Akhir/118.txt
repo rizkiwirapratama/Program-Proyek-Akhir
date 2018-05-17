@@ -1,0 +1,16 @@
+Atom number		: 118  
+Atom mass		: unknown g/mol  
+Group No: 18  
+Group Name: Noble Gases  
+Block: p-block  
+Period: 7  
+State: presumably a gas at 298 K  
+Colour: unknown, but probably a colourless gas
+Classification: Non-metallic
+Availability: This item is purely synthetic and is not available commercially. 
+
+	Sources  
+Synthetically produced element 
+
+	Notes  
+In December 2015, it was announced that Oganesson had earned its place in the Perioidic Table. On the 15th of June 2016, Oganesson was announced as the official name for the element previously known as ununoctium 

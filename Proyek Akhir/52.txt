@@ -1,0 +1,47 @@
+Atom number				: 52
+Atom mass				: 127.60 g/mol  
+Group No: 16  
+Group Name: Chalcogen  
+Block: p-block  
+Period: 5  
+State: solid at 298 K  
+Colour: silvery lustrous grey 
+Classification: Semi-metallic  
+Boiling Point: 1261K
+Melting Point: 722.66K
+Density: 6.24g/cm3 
+
+Atomic Volume: 20.5 cm3 mol^-1 
+Electronegativity: 2.1 
+Magnetic ordering: Non-magnetic 
+Mass magnetic susceptibility: -3.9 x 10^-9 
+Molar magnetic susceptibility :-4.98 x 10^-10 
+Speed of sound: 2610 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 190.4 kJ mol^-1 
+Enthalpy of Fusion: 13.5 kJ mol^-1 
+Enthalpy of Vaporisation: 104.6 kJ mol^-1 
+Heat Capacity: 25.73 J mol^-1 K^-1 
+Thermal Conductivity: 1.97 - 3.38 W m^-1 K^-1  
+
+	Hardness 
+Brinell hardness: 180 MPa 
+Mohs hardness: 2.25 
+
+	Elastic Properties 
+Bulk modulus: 65 GPa 
+Shear modulus: 16 GPa 
+Young's modulus: 43 GPa 
+
+	Electrical Properties 
+Electrical resistivity: No data. 
+Electrical conductivity: 2.0 x 10-6 106/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.1902 g Ah-1 
+Electron Work Function: 4.95 eV 
+Valence Electron Potential (-eV): 59 
+Ionization Potential :  First  9.009, Second  18.6, Third  27.96 
+Incompatibilities: Oxidizers, chlorine, cadmium.  
+Flammability : Combustible Solid 

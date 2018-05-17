@@ -1,0 +1,34 @@
+Atom number				: 43
+Atom mass				: [98] g/mol  
+Group No: 7  
+Group Name: Transition metals  
+Block: d-block  
+Period: 5  
+State: solid at 298 K  
+Colour: silvery grey metallic 
+Classification: Metallic  
+Boiling Point: 4538K
+Melting Point: 2430K  
+Superconducting temperature: 7.8K 
+Density: 11g/cm3 
+
+Atomic Volume: 8.5 cm3 mol^-1 
+Electronegativity: 1.9 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: 3.42 x 10^-8 
+Molar magnetic susceptibility: 3.352 x 10^-9 
+
+	Thermal Properties 
+Enthalpy of Atomization: 649 kJ mol^-1 
+Enthalpy of Fusion: 23.81 kJ mol^-1 
+Enthalpy of Vaporisation: 585.22 kJ mol^-1 
+Heat Capacity: 24.27 J mol^-1 K^-1 
+
+	Electrical Properties 
+Electrical resistivity : No data. 
+Electrical conductivity: 0.067 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 0.51651 g Ah^-1 
+Valence Electron Potential (-eV): 180 
+Ionization Potential: First  7.28, Second  15.26, Third  29.54 

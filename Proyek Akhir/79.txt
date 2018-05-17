@@ -1,0 +1,48 @@
+Atom number				: 79 
+Atom mass				: 196.96655 g/mol  
+Group No: 11  
+Group Name: Coinage metal  
+Block: d-block  
+Period: 6  
+State: solid at 298 K  
+Colour: gold 
+Classification: Metallic  
+Boiling Point: 3129K  
+Melting Point: 1337.33K
+Density: 19.3g/cm3 
+
+Atomic Volume: 10.2 cm3 mol^-1 
+Electronegativity: 2.54 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: -1.8 x 10^-9 
+Molar magnetic susceptibility: -3.55 x 10^-10 
+Speed of sound: 2030 m s^-1 
+
+Thermal Properties 
+Enthalpy of Atomization: 364 kJ mol^-1
+Enthalpy of Fusion: 12.7 kJ mol^-1 
+Enthalpy of Vaporisation: 343.1 kJ mol^-1 
+Heat Capacity: 25.418 J mol^-1 K^-1 
+Thermal Conductivity: 318 W m^-1 K^-1 
+Thermal Expansion: 14.2 um m^-1 K^-1 
+. 
+	Hardness 
+Brinell hardness: 2450 MPa 
+Mohs hardness: 2.5 
+Vickers hardness: 216 MPa 
+
+	Elastic Properties 
+Bulk modulus: 220 GPa 
+Poisson ratio: 0.44 
+Shear modulus: 27 GPa 
+Young's modulus: 78 GPa 
+
+	Electrical Properties 
+Electrical resistivity :2.2 x 10^-8 ohm m  
+Electrical conductivity: 0.452 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 2.4496 g Ah^-1 
+Electron Work Function: 5.1 eV 
+Valence Electron Potential (-eV): 51 
+Ionization Potential :  First  9.225, Second  20.521 

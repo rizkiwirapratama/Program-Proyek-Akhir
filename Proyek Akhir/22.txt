@@ -1,0 +1,46 @@
+An: 21  
+Atom mass				: 44.955910 g/mol  
+Group No				: 3  
+Group Name				: Transition metals  
+Block					: d-block 
+Period					: 4  
+State					: solid at 298 K  
+Colour					: silvery white, develops a yellowish or pinkish cast when exposed to air.
+Classification				: Metallic  
+Boiling Point				: 3103K  
+Melting Point				: 1814K  
+Superconducting temperature		: 0.05K (under pressue)  
+Density					: 2.985g/cm3 
+
+Atomic Volume				: 15 cm3 mol^-1 
+Electronegativity			: 1.36 
+Magnetic ordering			: No data 
+Mass magnetic susceptibility		: 8.8 x 10^-8 
+Molar magnetic susceptibility		: 3.956 x 10^-9 
+
+	Thermal Properties 
+Enthalpy of Atomization			: 343 kJ mol^-1  
+Enthalpy of Fusion			: 15.9 kJ mol^-1 
+Enthalpy of Vaporisation		: 376.1 kJ mol^-1 
+Heat Capacity				: 25.52 J mol^-1 K^-1 
+Thermal Conductivity			: 15.8 W m^-1 K^-1 
+Thermal Expansion			: 10.2 um m^-1 K^-1 
+
+	Hardness 
+Brinell hardness			: 750 MPa 
+
+	Elastic Properties 
+Bulk modulus				: 56.6 GPa 
+Poisson ratio				: 0.279 
+Shear modulus				: 29.1 GPa 
+Young's modulus				: 74.4 GPa 
+
+	Electrical Properties 
+Electrical resistivity			: 5.5 x 10-7 ohm m  
+Electrical conductivity			: 0.0177 106/cm ohm
+  
+	Chemical Properties 
+Electrochemical Equivalent		: 0.55914 g Ah^-1 
+Electron Work Function			: 3.5 eV 
+Valence Electron Potential (-eV)	: 58 
+Ionization Potential   			: First  6.54, Second  12.8, Third  24.76 

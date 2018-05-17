@@ -1,0 +1,51 @@
+Atom number				: 82  
+Atom mass				: 207.2 g/mol  
+Group No: 14  
+Group Name: Metals  
+Block: p-block  
+Period: 6  
+State: solid at 298 K  
+Colour: bluish white 
+Classification: Metallic  
+Boiling Point: 2022K
+Melting Point: 600.61K  
+Superconducting temperature: 7.2K 
+Density: 11.34g/cm3 
+Availability: Lead is available in several forms including foil, granules, ingots, powder, rod, shot, sheet, and wire 
+
+Atomic Volume: 18.17 cm3 mol^-1 
+Electronegativity: 2.33 
+Magnetic ordering: Diamagnetic 
+Mass magnetic susceptibility: -1.5 x 10^-9 
+Molar magnetic susceptibility: -3.11 x 10^-10 
+Speed of sound: 1190 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 194.6 kJ mol^-1 
+Enthalpy of Fusion: 5.12 kJ mol^-1 
+Enthalpy of Vaporisation: 177.8 kJ mol^-1 
+Heat Capacity: 26.650 J mol^-1 K^-1 
+Thermal Conductivity: 35.3 W m^-1 K^-1 
+Thermal Expansion: 28.9 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 38.3 MPa 
+Mohs hardness: 1.5 
+
+	Elastic Properties 
+Bulk modulus: 46 GPa 
+Poisson ratio :0.44 
+Shear modulus: 5.6 GPa 
+Young's modulus: 16 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 2.1 x 10^-7 ohm m  
+Electrical conductivity: 0.0481 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 3.865 g Ah^-1 
+Electron Work Function: 4.25 eV 
+Valence Electron Potential (-eV): 24.2 
+Ionization Potential :  First  7.416, Second  15.028, Third  31.943 
+Incompatibilities : Strong oxidizers, hydrogen peroxide (H2O2), acids.  
+Flammability : Non-combustible solid (except as dust) 

@@ -1,0 +1,47 @@
+Atom number				: 26  
+Atom mass				: 55.845 g/mol  
+Group No: 8  
+Group Name: Transition metals  
+Block: d-block  
+Period: 4  
+State: solid at 298 K  
+Colour: lustrous, metallic, greyish tinge 
+Classification: Metallic  
+Boiling Point: 3134K 
+Melting Point: 1811K  
+Density: 7.86g/cm3 
+Availability: Iron is available in many forms including foil, chips, sheet, wire, granules, nanosized activated powder, powder, and rod. Small and large samples of iron foil, sheet and wire (also Iron alloy in foil form and stainless steel alloys in foil, sheet, wire, wire straight cut lengths, insulated wire, mesh, rod, tube and powder form).  
+
+Atomic Volume :7.1 cm3 mol^-1 
+Electronegativity: 1.83 
+Magnetic ordering :Ferromagnetic 
+Speed of sound :5120 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 414.2 kJ mol^-1  
+Enthalpy of Fusion: 14.9 kJ mol^-1 
+Enthalpy of Vaporisation :340.2 kJ mol^-1 
+Heat Capacity :25.10 J mol^-1 K^-1 
+Thermal Conductivity: 80.4 W m^-1 K^-1 
+Thermal Expansion : 11.8 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 490 MPa 
+Mohs hardness: 4.0 
+Vickers hardness: 608 MPa 
+
+	Elastic Properties 
+Bulk modulus: 170 GPa 
+Poisson ratio: 0.29 
+Shear modulus: 82 GPa 
+Young's modulus: 211 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 9.7 x 10^-8 ohm m  
+Electrical conductivity: 0.0993 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 0.69455 g Ah^-1 
+Electron Work Function: 4.7 eV 
+Valence Electron Potential: (-eV) 67 
+Ionization Potential : First  7.87, Second  16.18, Third  30.651 

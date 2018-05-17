@@ -1,0 +1,21 @@
+Atom number		: 103   
+Atom mass		: [262] g/mol  
+Group No		: 3  
+Group Name		: Actinoids  
+Block			: d-block  
+Period			: 7  
+State			: presumably a solid at 298 K  
+Colour			: unknown, but probably metallic and silvery white or grey in appearance 
+Classification		: Metallic  
+Boiling Point		: unknown  
+Melting Point		: 1900K
+Density			: unknown  
+Availability		: Lawrencium is a synthetic "rare earth metal" which does not occur in the environment. 
+
+	Discovery Information  
+Who: A. Ghiorso, T.Sikkeland, A.E.Larsh, R.M.Latimer  
+When: 1961 
+Where: United States 
+
+	Sources  
+Purely synthetic element. Produced by bombarding californium with boron ions 

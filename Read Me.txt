@@ -1,0 +1,4 @@
+Sebelum menjalankan program lakukan langkha-langkah berikut :
+1. Copy folder "Proyek Akhir"
+2. Paste pada Local Disk(C:)
+3. Jalankan Program

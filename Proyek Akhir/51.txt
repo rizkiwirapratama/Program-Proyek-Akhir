@@ -1,0 +1,49 @@
+Atom number				: 51  
+Atom mass				: 121.760 g/mol  
+Group No: 15  
+Group Name: Pnictogen  
+Block: p-block  
+Period: 5  
+State: solid at 298 K  
+Colour: silvery lustrous grey 
+Classification: Semi-metallic  
+Boiling Point: 1860K 
+Melting Point: 903.78K
+Density: 6.697g/cm3 
+Availability: Commercial forms of antimony are generally ingots, broken pieces, granules, and cast cake. Other forms are powder, shot, and single crystals. 
+
+Atomic Volume: 18.23 cm3 mol^-1 
+Electronegativity: 2.05 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: -1.09 x 10^-8 
+Molar magnetic susceptibility: -1.327 x 10^-9 
+Speed of sound :3420 m s^-1 
+
+	thermal Properties 
+Enthalpy of Atomization: 263.6 kJ mol^-1
+Enthalpy of Fusion: 20.9 kJ mol^-1 
+Enthalpy of Vaporisation: 165.8 kJ mol^-1 
+Heat Capacity: 25.23 J mol^-1 K^-1 
+Thermal Conductivity: 24 W m^-1 K^-1 
+Thermal Expansion: 11 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 294 MPa 
+Mohs hardness: 3.0 
+
+	Elastic Properties 
+Bulk modulus: 42 GPa 
+Shear modulus: 20 GPa 
+Young's modulus: 55 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 4.0 x 10-7 ohm m  
+Electrical conductivity :0.0288 106/cm ohm 
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.5142 g Ah-1 
+Electron Work Function: 4.55 eV 
+Valence Electron Potential (-eV): 57 
+Ionization Potential :  First  8.641, Second  16.53, Third  25.3 
+Incompatibilities : Strong oxidizers, acids, halogenated acids. 
+Flammability : Non-combustible solid (except as dust) 

@@ -1,0 +1,50 @@
+Atom number				: 75
+Atom mass				: 186.207 g/mol  
+Group No: 7  
+Group Name: Transition metals  
+Block: d-block  
+Period: 6  
+State: solid  
+Colour: greyish white 
+Classification: Metallic  
+Boiling Point: 5869K 
+Melting Point: 3459K 
+Superconducting temperature: 1.70K  
+Density: 21.02g/cm3 
+Availability: Many forms including foil, powder, ribbon, rod, and wire. 
+
+Atomic Volume 8.85 cm3 mol^-1 
+Electronegativity 1.9 
+Magnetic ordering No data 
+Mass magnetic susceptibility 4.6 x 10^-9 
+Molar magnetic susceptibility 8.57 x 10^-10 
+Speed of sound 4700 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 791 kJ mol^-1
+Enthalpy of Fusion: 33.1 kJ mol^-1 
+Enthalpy of Vaporisation: 704.25 kJ mol^-1 
+Heat Capacity: 25.48 J mol^-1 K^-1 
+Thermal Conductivity: 48.0 W m^-1 K^-1 
+Thermal Expansion: 6.2 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 1320 MPa 
+Mohs hardness: 7.0 
+Vickers hardness: 2450 MPa 
+
+	Elastic Properties 
+Bulk modulus: 370 GPa 
+Poisson ratio: 0.30 
+Shear modulus: 178 GPa 
+Young's modulus: 463 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 1.8 x 10^-7 ohm m  
+Electrical conductivity: 0.0542 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 0.9924 g Ah-1 
+Electron Work Function: 4.96 eV 
+Valence Electron Potential (-eV): 180 
+Ionization Potential  : First  7.88 

@@ -1,0 +1,33 @@
+Atom number				: 9  
+Atom mass				: 18.9984032 g/mol  
+Group No				: 17  
+Group Name				: Halogen  
+Block					: p-block
+Period					: 2  
+State					: gas at 298 K  
+Colour					: pale yellow
+Classification				: Non-metallic  
+Boiling Point				: 85.03K  
+Melting Point				: 53.53K 
+Critical temperature			: 144K
+
+Density					: 1.7 g/l  
+Atomic Volume 				: 17.1 cm3 mol^-1 
+Electronegativity			: 3.98 
+Magnetic ordering			: Non-magnetic 
+
+	Thermal Properties 
+Enthalpy of Atomization			: 79.08 kJ mol^-1  
+Enthalpy of Fusion			: 1.02 kJ mol^-1 
+Enthalpy of Vaporisation		: 3.26 kJ mol^-1 
+Heat Capacity				: 31.304 J mol^-1 K^-1 
+Thermal Conductivity			: 0.277 W m^-1 K^-1 
+Thermal Expansion			: No data. 
+Critcal Temperature			: 144 K 
+ 
+	Chemical Properties 
+Electrochemical Equivalent		: 0.70883 g Ah^-1 
+Valence Electron Potential (-eV)	: -10.1 
+Ionization Potential   			: First  17.422, Second  34.97, Third  62.707 
+Incompatibilities			: Water, nitric acid (HNO3), oxidizers, organic compounds.  
+Flammability 				: Non-flammable gas (extreme oxidizer) 

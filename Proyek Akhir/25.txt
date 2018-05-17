@@ -1,0 +1,47 @@
+Atom number				: 25  
+Atom mass				: 54.938049 g/mol  
+Group No: 7  
+Group Name: Transition metals  
+Block: d-block  
+Period: 4  
+State: solid at 298 K  
+Colour: silvery metallic 
+Classification: Metallic  
+Boiling Point: 2234K  
+Melting Point: 1519K 
+Density: 7.21g/cm3 
+
+Atomic Volume : 1.39 cm3 mol^-1 
+Electronegativity : 1.55 
+Magnetic ordering: Non-magnetic 
+Mass magnetic susceptibility :1.21 x 10^-7 
+Molar magnetic susceptibility :6.6475 x 10^-9 
+Speed of sound :5150 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 280.3 kJ mol^-1  
+Enthalpy of Fusion:14.4 kJ mol-1 
+Enthalpy of Vaporisation :220.5 kJ mol^-1 
+Heat Capacity :26.32 J mol^-1 K^-1 
+Thermal Conductivity: 7.81 W m^-1 K^-1 
+Thermal Expansion: 21.7 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 196 MPa 
+Mohs hardness: 6.0 
+
+	Elastic Properties 
+Bulk modulus: 120 GPa 
+Young's modulus: 198 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 1.60 x 10^-6 ohm m  
+Electrical conductivity: 0.00695 10)^6/cm ohm 
+
+	Chemical Properties 
+Electrochemical Equivalent :0.29282 g Ah^-1 
+Electron Work Function: 4.1 eV 
+Valence Electron Potential (-eV): 220 
+Ionization Potential : First  7.435, Second  15.64, Third  33.667 
+Incompatibilities: Oxidizers. 
+Flammability : Combustible Solid 

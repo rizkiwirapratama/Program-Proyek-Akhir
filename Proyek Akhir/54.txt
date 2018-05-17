@@ -1,0 +1,33 @@
+Atom number				: 54 
+Atom mass				: 131.293 g/mol  
+Group No: 18  
+Group Name: Noble gas  
+Block: p-block  
+Period: 5  
+State: gas at 298 K  
+Colour: colourless 
+Classification: Non-metallic  
+Boiling Point: 165.1K  
+Melting Point: 161.4K
+Critical temperature: 289.7K
+Density: 5.894g/l  
+Availability: Xenon is a "noble" or "inert" gas present in the atmosphere to a small extent (1 part in 20 million). 
+
+Atomic Volume :37.3 cm3 mol^-1 
+Electronegativity :2.6 
+Magnetic ordering :Non-magnetic 
+Mass magnetic susceptibility :-4.3 x 10^-9 
+Molar magnetic susceptibility: -5.65 x 10^-10 
+Speed of sound :1090 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: No data. 
+Enthalpy of Fusion: 3.1 kJ mol^-1 
+Enthalpy of Vaporisation: 12.65 kJ mol^-1 
+Heat Capacity :20.786 J mol^-1 K^-1 
+Thermal Conductivity: 0.00565 W m^-1 K^-1 
+Thermal Expansion: No data. 
+Critcal Temperature :289.7 K 
+
+	Chemical Properties 
+Ionization Potential   : First  12.13, Second  21.21, Third  32.1 

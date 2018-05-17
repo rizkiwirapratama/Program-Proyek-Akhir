@@ -1,0 +1,47 @@
+Atom number: 33   
+Atom mass: 74.92160  g/mol  
+Group No: 15  
+Group Name: Pnictogen  
+Block: p-block  
+Period: 4  
+State: solid at 298 K  
+Colour: metallic grey 
+Classification: Semi-metallic  
+Boiling Point: 887K 
+Melting Point: 1090K 
+Critical temperature: 1700K
+Density: 5.727g/cm3 
+
+Atomic Volume: 13.1 cm3 mol^-1 
+Electronegativity: 2.18 
+Magnetic ordering :No data 
+Mass magnetic susceptibility: -3.9 x 10^-9 
+Molar magnetic susceptibility :-2.92 x 10^-10 
+
+	Thermal Properties 
+Enthalpy of Atomization: 301.3 kJ mol^-1 
+Enthalpy of Fusion: 27.7 kJ mol^-1 
+Enthalpy of Vaporisation: 31.9 kJ mol^-1 
+Heat Capacity: 24.64 J mol^-1 K^-1 
+Thermal Conductivity: 50.2 W m^-1 K^-1 
+Thermal Expansion: No data. 
+Critcal Temperature: 1700 K 
+
+	Hardness 
+Brinell hardness: 1440 MPa 
+Mohs hardness: 3.5 
+	
+	Elastic Properties 
+Bulk modulus: 22 GPa 
+Young's modulus: 8 GPa 
+	
+	Electrical Properties 
+Electrical resistivity: 3.0 x 10^-7 ohm m  
+Electrical conductivity: 0.0345 10^6/cm ohm  
+	
+	Chemical Properties 
+Electrochemical Equivalent: 0.93177 g Ah^-1 
+Electron Work Function: 3.75 eV 
+Valence Electron Potential: (-eV) 74 
+Ionization Potential   :First  9.81, Second  16.633, Third  28.351 
+Incompatibilities: Halogenated compounds, rubidium, carbide. 

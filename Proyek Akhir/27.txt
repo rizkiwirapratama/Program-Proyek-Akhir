@@ -1,0 +1,47 @@
+Atom number				: 27  
+Atom mass				: 58.933195 g/mol  
+Group No: 9  
+Group Name: Transition metals  
+Period: 4  
+State: solid at 298 K  
+Colour: lustrous, metallic, greyish tinge 
+Classification: Metallic  
+Boiling Point: 3200K  
+Melting Point: 1768K  
+Density: 8.90g/cm3 
+
+Ground state :4F9/2 
+Atomic Volume: 6.7 cm3 mol^-1 
+Electronegativity: 1.88 
+Magnetic ordering :Ferromagnetic 
+Speed of sound: 4720 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 26.8 kJ mol^-1  
+Enthalpy of Fusion: 15.2 kJ mol^-1 
+Enthalpy of Vaporisation: 382.4 kJ mol^-1 
+Heat Capacity: 24.81 J mol^-1 K^-1 
+Thermal Conductivity: 100 W m^-1 K^-1 
+Thermal Expansion: 13 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 700 MPa 
+Mohs hardness: 5.0 
+Vickers hardness: 1043 MPa 
+
+	Elastic Properties 
+Bulk modulus: 180 GPa 
+Poisson ratio: 0.31 
+Shear modulus: 75 GPa 
+Young's modulus: 209 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 6 ohm m 
+Electrical conductivity: 0.172 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.0994 g Ah-1 
+Electron Work Function: 5 eV 
+Valence Electron Potential (-eV) :38.7 
+Ionization Potential : First  7.86, second  17.06, Third  33.5 
+Incompatibilities: Strong oxidizers, ammonium nitrate (NH4NO3). 

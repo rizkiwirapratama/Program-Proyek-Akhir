@@ -1,0 +1,50 @@
+Atom number				: 47 
+Atom mass				: 107.8682 g/mol  
+Group No: 11  
+Group Name: Coinage metal  
+Block: d-block  
+Period: 5  
+State: solid at 298 K  
+Colour: silver 
+Classification: Metallic  
+Boiling Point: 2435K
+Melting Point: 1234.93K
+Density: 10.49g/cm3 
+
+Atomic Volume 10.3 cm3 mol^-1 
+Electronegativity 1.93 
+Magnetic ordering Diamagnetic 
+Mass magnetic susceptibility -2.3 x 10^-9 
+Molar magnetic susceptibility -2.48 x 10^-10 
+Speed of sound 2680 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 284.5 kJ mol^-1  
+Enthalpy of Fusion: 11.3 kJ mol^-1 
+Enthalpy of Vaporisation: 257.7 kJ mol^-1 
+Heat Capacity: 25.350 J mol^-1 K^-1 
+Thermal Conductivity: 429 W m^-1 K^-1 
+Thermal Expansion: 18.9 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 24.5 MPa 
+Mohs hardness: 2.5 
+Vickers hardness: 251 MPa 
+
+	Elastic Properties 
+Bulk modulus: 100 GPa 
+Poisson ratio: 0.37 
+Shear modulus: 30 GPa 
+Young's modulus: 83 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 1.6 x 10^-8 ohm m  
+Electrical conductivity: 0.63 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 4.0246 g Ah^-1 
+Electron Work Function: 4.26 eV 
+Valence Electron Potential (-eV): 11.4 
+Ionization Potential  : First  7.576, Second  21.49, Third  34.83 
+Incompatibilities :Acetylene (C2H2), ammonia (NH3), hydrogen peroxide (H2O2), bromoazide, chlorine trifluoride (ClF3), ethyleneimine (C2H5N), oxalic acid (C2H2O4), tartaric acid (C4H6O6).  
+Flammability : Non-combustible solid (except as dust) 

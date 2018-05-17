@@ -1,0 +1,22 @@
+Atom number			: 97
+Atom mass			: [247] g/mol
+Group Name: Actinoid  
+Block: f-block  
+Period: 7 (actinoid)  
+State: solid  
+Colour: unknown, but probably metallic and silvery white or grey in appearance 
+Classification: Metallic  
+Boiling Point: unknown  
+Melting Point: 1259K
+Density: (alpha) 14.78g/cm3 
+Density: (beta) 13.25g/cm3 
+
+Atomic Volume: cm3 mol^-1 
+Electronegativity: 1.3 
+Magnetic ordering: No data 
+Thermal Conductivity: 10 W m^-1 K^-1 
+
+	Chemical Properties 
+Electrochemical Equivalent: 3.0727 g Ah^-1 
+Valence Electron Potential (-eV): 45.5 
+Ionization Potential  : First  6.23 

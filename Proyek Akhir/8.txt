@@ -1,0 +1,36 @@
+Atom number				: 8
+Atom mass				: 15.9994 (3) g/mol  
+Group No				: 16  
+Group Name				: Chalcogen  
+Block					: p-block
+Period					: 2  
+State					: gas at 298 K  
+Colour					: colourless as a gas, liquid is pale blue
+Classification				: Non-metallic  
+Boiling Point				: 90.2K  
+Melting Point				: 54.8K  
+Critical temperature			: 154.6K 
+Density					: 1.429g/l  
+
+Atomic Volume				: 14 cm3 mol^-1 
+Electronegativity			: 3.44 
+Magnetic ordering			: Paramagnetic 
+Mass magnetic susceptibility		: 1.335 x 10^-6 
+Molar magnetic susceptibility		: 2.13592 x 10^-8 
+Speed of sound				: 330 m s-1 
+
+	Thermal Properties 
+Enthalpy of Atomization			: 249.4 kJ mol^-l  
+Enthalpy of Fusion			: 0.444 kJ mol^-1 
+Enthalpy of Vaporisation		: 6.82 kJ mol^-1 
+Heat Capacity (O2)			: 29.378 J mol^-1 K^-1 
+Thermal Conductivity			: 0.0266 W m^-1 K^-1 
+Thermal Expansion			: No data. 
+Critcal Temperature			: 154.6 K 
+
+	Chemical Properties 
+Electrochemical Equivalent		: 0.29847 g Ah^-1 
+Valence Electron Potential (-eV)	: -20.6 
+Ionization Potential   			: First  13.618, Second  35.117, Third  54.934 
+Incompatibilities			: Oxidizable materials. 
+Flammability 				: Non-flammable gas (Oxidizer) 

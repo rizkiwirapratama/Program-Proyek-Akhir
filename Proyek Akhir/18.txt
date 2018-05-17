@@ -1,0 +1,32 @@
+Atom number				: 18 
+Atom mass				: 39.948  g/mol  
+Group No				: 18  
+Group Name				: Noble gas  
+Block					: p-block
+Period					: 3  
+State					: gas at 298 K  
+Colour					: colourless
+Classification				: Non-metallic  
+Boiling Point				: 87.3K  
+Melting Point				: 83.80K  
+Critical temperature			: 150.8K  
+Density					: 1.784g/l  
+
+Atomic Volume				: 28.5 cm3 mol^-1 
+Electronegativity			: No data. 
+Magnetic ordering			: No data 
+Mass magnetic susceptibility		: -6 x 10^-9 
+Molar magnetic susceptibility		: -2.4 x 10^-10 
+Speed of sound				: 323 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization			: No data. 
+Enthalpy of Fusion			: 1.21 kJ mol^-1 
+Enthalpy of Vaporisation		: 6.53 kJ mol^-1 
+Heat Capacity				: 20.786 J mol^-1 K^-1 
+Thermal Conductivity			: 0.1772 W m^-1 K^-1 
+Thermal Expansion			: No data. 
+Critcal Temperature			: 150.8 K  
+
+	Chemical Properties 
+Ionization Potential   			: First  15.759, Second  27.629, Third  40.74 

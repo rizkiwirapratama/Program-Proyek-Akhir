@@ -1,0 +1,33 @@
+Atom number				: 36  
+Atom mass				: 83.798 g/mol  
+Group No: 18  
+Group Name: Noble Gases  
+Block: p-block  
+Period: 4  
+State: Gas  
+Colour: Colourless 
+Classification: Non-metallic  
+Boiling Point: 119.93K
+Melting Point: 115.79K 
+Critical temperature: 209.4K
+Density: 3.749g/l  
+Availability: Krypton is present in the air at about 1 ppm. 
+
+Atomic Volume :38.9 cm3 mol^-1 
+Electronegativity: 3.00 
+Magnetic ordering :Non-magnetic 
+Mass magnetic susceptibility: -4.4 x 10^-9 
+Molar magnetic susceptibility: -3.69 x 10^-10 
+Speed of sound: gas: 220. liquid; 1120 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: No data. 
+Enthalpy of Fusion: 1.64 kJ mol^-1 
+Enthalpy of Vaporisation: 9.05 kJ mol^-1 
+Heat Capacity: 20.786 J mol-1 K^-1 
+Thermal Conductivity: 0.00943 W m^-1 K^-1 
+Thermal Expansion: No data. 
+Critcal Temperature: 209.4 K 
+
+	Chemical Properties 
+Ionization Potential   : First  13.999, Second  24.359, Third  36.95 

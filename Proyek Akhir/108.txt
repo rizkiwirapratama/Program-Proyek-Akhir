@@ -1,0 +1,19 @@
+Atom nuumber		: 108  
+Atom mass		: [269] g/mol  
+Group No		: 8  
+Group Name: Transactinides  
+Block: d-block  
+Period: 7  
+State: presumably a solid at 298 K  
+Colour: unknown, but probably metallic and silvery white or grey in appearance 
+Classification: Metallic  
+Availability: Hassium, is a synthetic element that is not present in the environment at all 
+
+	Discovery Information  
+Who: Peter Armbruster, Gottfried Münzenberg, et al.  
+When: 1984 
+Where: GSI, Darmstadt, Germany  
+
+	Sources  
+Synthetically prepared element. The first atoms were made by fusing 208Pb with 58Fe.  
+ 

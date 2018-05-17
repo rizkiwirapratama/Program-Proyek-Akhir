@@ -1,0 +1,48 @@
+Atom number				: 49 
+Atom mass				: 114.818 g/mol  
+Group No: 13  
+Group Name: Metals  
+Block: p-block  
+Period: 5  
+State: solid at 298 K  
+Colour: Silvery lustrous grey 
+Classification: Metallic  
+Boiling Point: 2345K 
+Melting Point: 429.75K
+Superconducting temperature: 3.41K 
+Density: 7.31g/cm3 
+Availability: Indium is available in several forms including bar, foil, pieces, powder, nanosized activated powder, rod, shot, sheet, and wire 
+
+Atomic Volume: 15.7 cm3 mol^-1 
+Electronegativity: 1.78 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: -1.4 x 10^-9 
+Molar magnetic susceptibility: -1.61 x 10^-10 
+Speed of sound: 1215 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 242.7 kJ mol^-1
+Enthalpy of Fusion: 3.27 kJ mol^-1 
+Enthalpy of Vaporisation: 231.8 kJ mol^-1 
+Heat Capacity: 26.74 J mol^-1 K^-1 
+Thermal Conductivity: 81.8 W m^-1 K^-1 
+Thermal Expansion :32.1 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 8.83 MPa 
+Mohs hardness: 1.2 
+
+	Elastic Properties 
+Young's modulus: 11 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 8 x 10^-8 ohm m  
+Electrical conductivity: 0.116 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.428 g Ah^-1 
+Electron Work Function: 4.12 eV 
+Valence Electron Potential (-eV): 54 
+Ionization Potential : First  5.786, Second  18.869, Third  28.03 
+Incompatibilities : Dinitrogen tetraoxide (N2O4), acetonitrile (CH3CN), mercury(II) bromide (at 662°F), sulfur (mixtures ignite when heated).  
+Flammability : Non-combustible solid (except as dust) 

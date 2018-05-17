@@ -1,0 +1,49 @@
+Atom number				: 29 
+Atom mass				: 63.546 g/mol  
+Group No: 11  
+Group Name: Coinage metal  
+Block: d-block  
+Period: 4  
+State: solid at 298 K  
+Colour: copper, metallic 
+Classification: Metallic  
+Boiling Point: 3200K 
+Melting Point: 1357.77K
+Density: 8.96g/cm3 
+
+Atomic Volume: 7.1 cm3 mol^-1 
+Electronegativity: 1.90 
+Magnetic ordering: Diamagnetic 
+Mass magnetic susceptibility: -1.08 x 10^-9 
+Molar magnetic susceptibility: -6.86 x 10^-11 
+Speed of sound: 3810 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 338.9 kJ mol^-1
+Enthalpy of Fusion: 13.0 kJ mol^-1 
+Enthalpy of Vaporisation: 306.7 kJ mol^-1 
+Heat Capacity: 24.440 J mol^-1 K^-1 
+Thermal Conductivity: 401 W m^-1 K^-1 
+Thermal Expansion: 16.5 um m^-1 K^-1 
+
+	Hardness 
+Brinell hardness: 874 MPa 
+Mohs hardness: 3.0 
+Vickers hardness: 369 MPa 
+
+	Elastic Properties 
+Bulk modulus: 140 GPa 
+Poisson ratio : 0.34 
+Shear modulus: 48 GPa 
+Young's modulus: 130 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 1.7 x 10^-8 ohm m  
+Electrical conductivity: 0.596 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent : 1.1855 g Ah-1 
+Electron Work Function : 4.65 eV 
+Valence Electron Potential (-eV): 34 
+Ionization Potential	: First  7.726, Second  20.292, Third  36.83 
+Incompatibilities : Oxidizers, alkalis, sodium azide (NaN3), acetylene (C2H2). 

@@ -1,0 +1,46 @@
+Atom number				: 16 
+Atom mass				: 32.065 g/mol  
+Group No				: 16  
+Group Name				: Chalcogen  
+Block					: p-block
+Period					: 3  
+State					: solid at 298 K  
+Colour					: lemon yellow
+Classification				: Non-metallic  
+Boiling Point				: 717.87K 
+Melting Point				: 388.36K 
+Critical temperature			: 1314K 
+Density					: (alpha) 2.08g/cm3 
+Density					: (beta) 1.96g/cm3 
+Density					: (gamma) 1.92g/cm3 
+
+Atomic Volume				: 15.5 cm3 mol^-1 
+Electronegativity			: 2.58 
+Magnetic ordering			: No data 
+Mass magnetic susceptibility		: -6.2 x 10^-9 
+Molar magnetic susceptibility		: -1.99 x 10^-10 
+
+	Thermal Properties 
+Enthalpy of Atomization			: 278.7 kJ mol^-1
+Enthalpy of Fusion			: 1.23 kJ mol^-1 
+Enthalpy of Vaporisation		: 9.62 kJ mol^-1 
+Heat Capacity				: 22.75 J mol^-1 K^-1 
+Thermal Conductivity (amorphous)	: 0.205 W m^-1 K^-1 
+Thermal Expansion			: No data. 
+Critcal Temperature			: 1314 K
+
+
+	Hardness 
+Mohs hardness				: 2.0 
+
+	Elastic Properties 
+Bulk modulus				: 7.7 GPa 
+
+	Electrical Properties 
+Electrical resistivity			: 2 x 10^15 ohm m  
+Electrical conductivity			: 5 x 10^-24 10^6/cm ohm 
+
+	Chemical Properties 
+Electrochemical Equivalent		: 0.299 g Ah^-1 
+Valence Electron Potential (-eV)	: 160 
+Ionization Potential   			: First  10.36, Second  23.33,Third  34.83 

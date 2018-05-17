@@ -1,0 +1,50 @@
+Atom number				: 13
+Atom mass				: 26.981538 (2) g/mol  
+Group No				: 13  
+Group Name				: Metals  
+Block					: p-block
+Period					: 3  
+State					: solid at 298 K  
+Colour					: silvery
+Classification				: Metallic  
+Boiling Point				: 2792K
+Melting Point				: 933.47K  
+Superconducting temperature		: 1.175K  
+Density					: 2.70g/cm3 
+
+Atomic Volume				: 10 cm3 mol^-1 
+Electronegativity			: 1.61 
+Magnetic ordering			: Paramagnetic 
+Mass magnetic susceptibility		: 7.8 x 10^-9 
+Molar magnetic susceptibility		: 2.1 x 10^-10 
+Speed of sound				: 5000 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization			: 322.2 kJ mol^-1
+Enthalpy of Fusion			: 10.67 kJ mol^-1 
+Enthalpy of Vaporisation		: 290.8 kJ mol^-1 
+Heat Capacity				: 24.200 J mol^-1 K^-1 
+Thermal Conductivity			: 235 W m^-1 K^-1 
+Thermal Expansion			: 23.1 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness			: 245 MPa 
+Mohs hardness				: 2.75 
+Vickers hardness			: 167 MPa 
+
+	Elastic Properties 
+Bulk modulus				: 76 GPa 
+Poisson ratio				: 0.35 
+Shear modulus				: 26 GPa 
+Young's modulus				: 70 GPa 
+
+Electrical Properties 
+Electrical resistivity			: 2.65 x 10^-8 ohm m  
+Electrical conductivity			: 0.377 10^6/cm ohm 
+
+	Chemical Properties 
+Electrochemical Equivalent		: 0.33556 g Ah^-1 
+Electron Work Function			: 4.28 eV 
+Valence Electron Potential (-eV)	: 807 
+Ionization Potential   			: First  5.986, Second  18.828, Third  28.447 
+Incompatibilities 			: Strong oxidizers and acids, halogenated hydrocarbons. 

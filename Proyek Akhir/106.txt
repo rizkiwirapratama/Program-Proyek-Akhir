@@ -1,0 +1,17 @@
+Atom number		: 106   
+Atom mass		: [266] g/mol  
+Group No: 6  
+Group Name: Transactinides  
+Block: d-block  
+Period: 7  
+State: Metallic  
+Colour: unknown, but probably metallic and silvery white or grey in appearance 
+
+	Discovery Information  
+Who: members of the Joint Institute for Nuclear Research, workers of the Lawrence Berkeley and Livermore Laboratories 
+When: 1974 
+Where: Dubna, USSR / Berkeley California 
+
+	Sources  
+Seaborgium is a synthetic element that is not present in the environment at all. 
+The first samples were made by fusing 249Cf with 18O.  

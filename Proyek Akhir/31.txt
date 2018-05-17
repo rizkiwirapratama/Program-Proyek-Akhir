@@ -1,0 +1,49 @@
+Atom number 				: 30  
+Atom mass				: 65.409 g/mol  
+Group No: 12  
+Group Name: Transition metals  
+Block: d-block  
+Period: 4  
+State: solid at 298 K  
+Colour: bluish pale grey 
+Classification: Metallic  
+Boiling Point: 1180K  
+Melting Point: 692.68K 
+Superconducting temperature: 0.85K 
+Density: 7.14g/cm3 
+Availability: Zinc is available in many forms including dust, foil, granules, powder, pieces, nanosize activated powder, shot, and a mossy form.  
+
+Atomic Volume: 9.2 cm3 mol^-1 
+Electronegativity: 1.65 
+Magnetic ordering :Diamagnetic 
+Mass magnetic susceptibility: -2.21 x 10^-9 
+Molar magnetic susceptibility: -1.45 x 10^-10 
+Speed of sound: 3850 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 129.7 kJ mol^-1   
+Enthalpy of Fusion: 6.67 kJ mol-1 
+Enthalpy of Vaporisation : 114.2 kJ mol^-1 
+Heat Capacity : 25.390 J mol^-1 K^-1 
+Thermal Conductivity : 116 W m^-1 K^-1 
+Thermal Expansion : 30.2 um m^-1 K^-1 
+  
+	Hardness 
+Brinell hardness : 412 MPa 
+Mohs hardness : 2.5 
+
+	Elastic Properties 
+Bulk modulus : 70 GPa 
+Poisson ratio : 0.25 
+Shear modulus : 43 GPa 
+Young's modulus : 108 GPa 
+
+	Electrical Properties 
+Electrical resistivity : 5.9 x 10^-8 ohm m  
+Electrical conductivity : 0.166 10^6/cm ohm  
+	
+	Chemical Properties 
+Electrochemical Equivalent : 1.22 g Ah^-1 
+Electron Work Function: 4.33 eV 
+Valence Electron Potential (-eV): 38.9 
+Ionization Potential  : First  9.394,Second  17.964, Third  39.722 

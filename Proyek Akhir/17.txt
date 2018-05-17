@@ -1,0 +1,42 @@
+Atom number				: 17  
+Atom mass				: 35.453 g/mol  
+Group No				: 17  
+Group Name				: Halogen  
+Block					: p-block
+Period					: 3  
+State					: gas at 298 K  
+Colour					: yellowish green 
+Classification				: Non-metallic  
+Boiling Point				: 239.11K 
+Melting Point				: 171.6K  
+Critical temperature			: 417K  
+Density					: 3.2g/l  
+
+Atomic Volume				: 22.7 cm3 mol^-1 
+Electronegativity			: 3.16 
+Magnetic ordering			: Non-magnetic 
+Mass magnetic susceptibility		: -7.2 x 10^-9 
+Molar magnetic susceptibility		: -2.55 x 10^-10 
+Speed of sound				: 206 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization			: 121.8 kJ mol^-1  
+Enthalpy of Fusion			: 6.41 kJ mol^-1 
+Enthalpy of Vaporisation		: 20.403 kJ mol^-1 
+Heat Capacity (Cl2)			: 33.949 J mol^-1 K^-1 
+Thermal Conductivity			: 0.0089 W m^-1 K^-1 
+Thermal Expansion			: No data. 
+Critcal Temperature			: 417 K  
+Critcal Pressure			: No data. 
+Adiabatic index				: No data. 
+
+	Electrical Properties 
+Electrical resistivity			: 10+ ohm
+Electrical conductivity			: ? 10^6/cm ohm
+
+	Chemical Properties 
+Electrochemical Equivalent		: 1.3228 g Ah-1 
+Valence Electron Potential (-eV)	: -7.96 
+Ionization Potential   			: First  12.967, Second  23.81, Third  39.611 
+Incompatibilities			: Reacts explosively or forms explosive compounds with many common substances such as acetylene (C2H2), ether, turpentine, ammonia (NH3), fuel gas, hydrogen and finely divided metals.  
+Flammability 				: Non-flammable gas (strong oxidizer) 

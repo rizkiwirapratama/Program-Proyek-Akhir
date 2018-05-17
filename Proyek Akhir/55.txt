@@ -1,0 +1,45 @@
+Atom number				: 55
+Atom mass				: 132.90545 g/mol  
+Group No: 1  
+Group Name: Alkali metal  
+Block: s-block  
+Period: 6  
+State: solid at 298 K (but melts only slightly above this temperature)  
+Colour: silvery gold 
+Classification: Metallic  
+Boiling Point: 944K   
+Melting Point: 301.59K
+Critical temperature: 1938K
+Density: 1.93g/cm3 
+
+Atomic Volume: 71.07 cm3 mol^-1 
+Electronegativity: 0.79 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: -2.8 x 10^-9 
+Molar magnetic susceptibility: -3.72 x 10^-10 
+
+	Thermal Properties 
+Enthalpy of Atomization: 78.2 kJ mol^-1
+Enthalpy of Fusion: 2.09 kJ mol^-1 
+Enthalpy of Vaporisation: 66.5 kJ mol^-1 
+Heat Capacity: 32.210 J mol^-1 K^-1 
+Thermal Conductivity: 35.9 W m^-1 K^-1 
+Thermal Expansion: 97 um m^-1 K^-1 
+
+	Hardness 
+Brinell hardness: 0.14 MPa 
+Mohs hardness: 0.2 
+
+	Elastic Properties 
+Bulk modulus: 1.6 GPa 
+Young's modulus: 1.7 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 2.0 x 10^-7 ohm m  
+Electrical conductivity: 0.0489 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 4.9587 g Ah^-1 
+Electron Work Function: 2.14 eV 
+Valence Electron Potential (-eV): 8.62 
+Ionization Potential   : First  3.894, Second  25.1 

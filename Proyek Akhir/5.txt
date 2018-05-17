@@ -1,0 +1,43 @@
+Atom number				: 5 
+Atom mass				: 10.811 (7) g/mol  
+Group No				: 13  
+Group Name				: Metalloids  
+Block					: p-block
+Period					: 2  
+State					: solid  
+Colour					: black
+Classification				: Semi-metallic  
+Boiling Point				: 4200K 
+Melting Point				: 2349K  
+Density					: 2.34g/cm3 
+
+Atomic Volume 				: 4.6 cm3 mol^-1 
+Electronegativity 			: 2.04 
+Magnetic ordering 			: Non-magnetic 
+Mass magnetic susceptibility 		: -8.7 x 10^-9 
+Molar magnetic susceptibility 		: -9.41 x 10^-11 
+Speed of sound 				: 16200 m s-1 
+
+	Thermal Properties 
+Enthalpy of Atomization 		: 573.2 kJ mol^-1
+Enthalpy of Fusion 			: 22.2 kJ mol^-1 
+Enthalpy of Vaporisation 		: 504.5 kJ mol^-1 
+Heat Capacity 				: 11.087 J mol^-1 K^-1 
+Thermal Conductivity 			: 27.4 W m^-1 K^-1 
+Thermal Expansion 			: 5 - 7 um m^-1 K^-1 
+Critcal Temperature			: No data. 
+Critcal Pressure			: No data. 
+Adiabatic index				: No data. 
+
+	Hardness 
+Mohs hardness				: 9.3 
+Vickers hardness			: 49000 MPa 
+	
+	Elastic Properties 
+Bulk modulus				: 185 GPa 
+  
+	Chemical Properties 
+Electrochemical Equivalent		: 0.1344 g Ah^-1 
+Electron Work Function			: 4.45 eV 
+Valence Electron Potential (-eV)	: 190 
+Ionization Potential   			: First  8.298, Second  25.154, Third  37.93 

@@ -1,0 +1,51 @@
+Atom number				: 40
+Atom mass				: 91.224g/mol  
+Group No: 4  
+Group Name: Transition metals  
+Block: d-block  
+Period: 5  
+State: solid at 298 K  
+Colour: silvery white 
+Classification: Metallic  
+Boiling Point: 4682K  
+Melting Point: 2128K 
+Superconducting temperature: 0.61K
+Density: 6.52g/cm3 
+Availability: Zirconium is available in many forms including foil, nanosized activated powder, powder, rod, sponge, bar, sheet, and wire. 
+
+Atomic Volume: 14.1 cm3 mol^-1 
+Electronegativity: 1.33 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: 1.66 x 10^-8 
+Molar magnetic susceptibility: 1.514 x 10^-9 
+Speed of sound: 3800 m s-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 598 kJ mol^-1   
+Enthalpy of Fusion: 23 kJ mol^-1 
+Enthalpy of Vaporisation: 566.7 kJ mol^-1 
+Heat Capacity: 25.36 J mol^-1 K^-1 
+Thermal Conductivity: 22.6 W m^-1 K^-1 
+Thermal Expansion: 5.7 um m^-1 K^-1 
+  
+	Hardness 
+Brinell hardness: 650 MPa 
+Mohs hardness: 5.0 
+Vickers hardness: 903 MPa 
+
+	Elastic Properties 
+Poisson ratio: 0.34 
+Shear modulus: 33 GPa 
+Young's modulus: 68 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 4.2 x 10^-7 ohm m  
+Electrical conductivity: 0.0236 10^6/cm ohm 
+	
+	Chemical Properties 
+Electrochemical Equivalent: 0.8509 g Ah^-1 
+Electron Work Function: 4.05 eV 
+Valence Electron Potential: (-eV) 80 
+Ionization Potential: First  6.84,Second  13.13, Third  22.99 
+Incompatibilities : Potassium nitrate (KNO3), oxidizers.  
+Flammability : Combustible 

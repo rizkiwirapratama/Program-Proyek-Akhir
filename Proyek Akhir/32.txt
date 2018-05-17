@@ -1,0 +1,42 @@
+Atom number				: 32   
+Atom mass				: 72.64 g/mol  
+Group No: 14  
+Group Name: Metalloids  
+Block: p-block  
+Period: 4  
+State: solid at 298 K  
+Colour: greyish white 
+Classification: Semi-metallic  
+Boiling Point: 3093K   
+Melting Point: 1211.4K  
+Density: 5.323g/cm3 
+
+Atomic Volume : 13.6 cm3 mol^-1 
+Electronegativity: 2.01 
+Magnetic ordering : No data 
+Mass magnetic susceptibility: -1.5 x 10^-9 
+Molar magnetic susceptibility: -1.09 x 10^-10 
+Speed of sound: 5400 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 376.6 kJ mol^-1 
+Enthalpy of Fusion: 34.7 kJ mol^-1 
+Enthalpy of Vaporisation: 327.6 kJ mol^-1 
+Heat Capacity: 23.222 J mol^-1 K^-1 
+Thermal Conductivity: 60.2 W m^-1 K^-1 
+Thermal Expansion: 6.0 um m^-1 K^-1 
+ 
+	Hardness 
+Mohs hardness: 6.0 
+
+	Electrical Properties 
+Electrical resistivity: No data. 
+Electrical conductivity : 1.45 x 10^-8 10^6/cm ohm 
+	
+	Chemical Properties 
+Electrochemical Equivalent : 0.6771 g Ah-1 
+Electron Work Function : 5 eV 
+Valence Electron Potential (-eV): 109 
+Ionization Potential  : First  7.899, Second  15.934, Third  34.22 
+Incompatibilities: Acids. 
+Flammability : Combustible Solid, fine dust is easily ignited 

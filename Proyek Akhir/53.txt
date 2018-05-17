@@ -1,0 +1,42 @@
+Atom number				: 53
+Atom mass				: 126.90447 g/mol  
+Group No: 17  
+Group Name: Halogen  
+Block: p-block  
+Period: 5  
+State: solid at 298 K  
+Colour: Violet-dark grey, lustrous 
+Classification: Non-metallic  
+Boiling Point: 457.4K
+Melting Point: 386.85K
+Critical temperature: 819K
+Density: 4.933g/cm3 
+
+Atomic Volume: 25.74 cm3 mol^-1 
+Electronegativity: 2.66 
+Magnetic ordering: Non-magnetic 
+Mass magnetic susceptibility: -4.5 x 10^-9 
+Molar magnetic susceptibility: -5.71 x 10^-10 
+
+	Thermal Properties 
+Enthalpy of Atomization: 106.7 kJ mol^-1  
+Enthalpy of Fusion: 15.27 kJ mol^-1 
+Enthalpy of Vaporisation: 41.67 kJ mol^-1 
+Heat Capacity (I2): 54.44 J mol^-1 K^-1 
+Thermal Conductivity: 0.449 W m^-1 K^-1 
+Thermal Expansion: No data. 
+Critcal Temperature: 819 K
+
+	Elastic Properties 
+Bulk modulus : 7.7 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 1.3 x 10^7 ohm m  
+Electrical conductivity: 8 x 10-16 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 4.7348 g Ah-1 
+Valence Electron Potential (-eV): -6.55 
+Ionization Potential   : First  10.451, Second  19.131, Third  33 
+Incompatibilities : Ammonia (NH3), acetylene (C2H2), acetaldehyde (C2H4O), powdered aluminium, active metals, liquid chlorine.  
+Flammability : Non-combustible solid 

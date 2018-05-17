@@ -1,0 +1,48 @@
+Atom number				: 44 
+Atom mass				: 101.07 g/mol  
+Group No: 8  
+Group Name: Precious metal or Platinum group metal  
+Block: d-block  
+Period: 5  
+State: solid  
+Colour: silvery white metallic 
+Classification: Metallic  
+Boiling Point: 4423K  
+Melting Point: 2607K 
+Superconducting temperature: 0.49K  
+Density: 12.45g/cm3 
+
+Atomic Volume: 8.3 cm3 mol^-1 
+Electronegativity: 2.2 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: 5.4 x 10^-9 
+Molar magnetic susceptibility: 5.46 x 10^-10 
+Speed of sound 5970: m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 603 kJ mol^-1 
+Enthalpy of Fusion 23.7: kJ mol^-1 
+Enthalpy of Vaporisation: 567 kJ mol^-1 
+Heat Capacity: 24.06 J mol^-1 K^-1 
+Thermal Conductivity: 117 W m^-1 K^-1 
+Thermal Expansion: 6.4 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 2160 MPa 
+Mohs hardness: 6.5 
+
+	Elastic Properties 
+Bulk modulus: 220 GPa 
+Poisson ratio: 0.30 
+Shear modulus: 173 GPa 
+Young's modulus: 447 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 7.1 x 10^-8 ohm m  
+Electrical conductivity: 0.137 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.257 g Ah^-1 
+Electron Work Function: 4.71 eV 
+Valence Electron Potential: (-eV): 64 
+Ionization Potential :  first  7.37, Second  16.76, third  28.47 

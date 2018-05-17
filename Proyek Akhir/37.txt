@@ -1,0 +1,47 @@
+Atom number				: 37
+Atom mass				: 85.4678 g/mol  
+Group No: 1  
+Group Name: Alkali metal  
+Block: s-block  
+Period: 5  
+State: solid  
+Colour: silvery white 
+Classification: Metallic  
+Boiling Point: 961K 
+Melting Point: 312.46K  
+Critical temperature: 2093K   
+Density: 1.532g/cm3 
+
+Atomic Volume :55.9 cm3 mol^-1 
+Electronegativity: 0.82 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: 2.6 x 10^-9 
+Molar magnetic susceptibility: 2.22 x 10^-10 
+Speed of sound: 1300 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 82 kJ mol^-1  
+Enthalpy of Fusion: 2.2 kJ mol^-1 
+Enthalpy of Vaporisation: 75.7 kJ mol^-1 
+Heat Capacity: 31.060 J mol^-1 K^-1 
+Thermal Conductivity: 58.2 W m^-1 K^-1 
+Thermal Expansion: No data. 
+Critcal Temperature: 2093 K 
+ 
+	Hardness 
+Brinell hardness: 0.216 MPa 
+Mohs hardness: 0.3 
+
+	Elastic Properties 
+Bulk modulus: 2.5 GPa 
+Young's modulus: 2.4 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 1.2 x 10^-7 ohm m  
+Electrical conductivity: 0.0779 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 3.1888 g Ah-1 
+Electron Work Function: 2.16 eV 
+Valence Electron Potential (-eV): 9.47 
+Ionization Potential :  First  4.177, Second  27.28, Third  40 

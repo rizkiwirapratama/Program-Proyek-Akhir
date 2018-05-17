@@ -1,0 +1,47 @@
+Atom number				: 83  
+Atom mass				: 208.98038 g/mol  
+Group No: 15  
+Group Name: Pnictogen  
+Block: p-block  
+Period: 6  
+State: solid  
+Colour: lustrous reddish white 
+Classification: Metallic  
+Boiling Point: 1837K
+Melting Point: 544.4K
+Density: 9.78g/cm3 
+
+Atomic Volume: 21.3 cm3 mol^-1 
+Electronegativity: 2.02 
+Magnetic ordering: Diamagnetic 
+Mass magnetic susceptibility: -1.7 x 10^-8 
+Molar magnetic susceptibility: -3.6 x 10^-9 
+Speed of sound: 1790 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 207.1 kJ mol^-1 
+Enthalpy of Fusion: 10.48 kJ mol^-1 
+Enthalpy of Vaporisation: 179.1 kJ mol^-1 
+Heat Capacity:25.52 J mol^-1 K^-1 
+Thermal Conductivity: 7.97 W m^-1 K^-1 
+Thermal Expansion: 13.4 um m^-1 K^-1 
+
+	Hardness 
+Brinell hardness: 94.2 MPa 
+Mohs hardness: 2.25 
+
+	Elastic Properties 
+Bulk modulus: 31 GPa 
+Poisson ratio 0.33 
+Shear modulus: 12 GPa 
+Young's modulus: 32 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 1.3 x 10^-6 ohm m  
+Electrical conductivity: 0.00867 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 2.599 g Ah^-1 
+Electron Work Function: 4.22 eV 
+Valence Electron Potential (-eV): 41.9 
+Ionization Potential  : First  7.289, Second  16.687, Third  25.559 

@@ -1,0 +1,51 @@
+Atom number				: 74  
+Atom mass				: 183.84 g/mol  
+Group No: 6  
+Group Name: Transition metals  
+Block: d-block  
+Period: 6  
+State: solid at 298 K  
+Colour: greyish white, lustrous 
+Classification: Metallic  
+Boiling Point: 5828K
+Melting Point: 3695K
+Superconducting temperature: 0.015K  
+Density: 19.25g/cm3 
+
+Atomic Volume: 9.53 cm3 mol^-1 
+Electronegativity: 2.36 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: 3.9 x 10^-9 
+Molar magnetic susceptibility: 7.17 x 10^-10 
+Speed of sound: 4620 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 837 kJ mol^-1 
+Enthalpy of Fusion: 35.2 kJ mol^-1 
+Enthalpy of Vaporisation: 824.2 kJ mol^-1 
+Heat Capacity: 24.27 J mol^-1 K^-1 
+Thermal Conductivity: 173 W m^-1 K^-1 
+Thermal Expansion: 4.5 uum m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 2570 MPa 
+Mohs hardness: 7.5 
+Vickers hardness: 3430 MPa 
+
+	Elastic Properties 
+Bulk modulus: 310 GPa 
+Poisson ratio: 0.28 
+Shear modulus: 161 GPa 
+Young's modulus: 411 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 5 x 10^-8 ohm m  
+Electrical conductivity: 0.189 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.1432 g Ah^-1 
+Electron Work Function: 4.55 eV 
+Valence Electron Potential (-eV): 140 
+Ionization Potential  : First  7.98 
+Incompatibilities : Bromine trifluoride (BrF3), chlorine trifluoride (ClF3), fluorine, iodine pentafluoride (IF5).  
+Flammability : Combustible 

@@ -1,0 +1,31 @@
+Atom number				: 86 
+Atom mass				: [222] g/mol  
+Group No: 18  
+Group Name: Noble gas  
+Block: p-block  
+Period: 6  
+State: gas  
+Colour: colourless 
+Classification: Non-metallic  
+Boiling Point: 211.3K
+Melting Point: 202K 
+Critical temperature: 377K  
+Density: 9.73g/l 
+
+Atomic Volume: 50.5 cm3 mol^-1 
+Electronegativity :No data. 
+Magnetic ordering: Non-magnetic 
+
+	Thermal Properties 
+Enthalpy of Atomization: No data. 
+Enthalpy of Fusion: 2.7 kJ mol^-1 
+Enthalpy of Vaporisation: 18.1 kJ mol^-1 
+Heat Capacity: 20.786 J mol^-1 K^-1 
+Thermal Conductivity: 0.00361 W m^-1 K^-1 
+Thermal Expansion: No data. 
+Critcal Temperature: 377 K
+Critcal Pressure: No data. 
+Adiabatic index: No data. 
+
+	Chemical Properties 
+Ionization Potential  : First  10.748 

@@ -1,0 +1,46 @@
+Atom number				: 4 
+Atom mass				: 9.012182 (3) g/mol  
+Group No				: 2  
+Group Name				: Alkaline earth metal  
+Block					: s-block
+Period					: 2  
+State					: solid  
+Colour					: lead grey
+Classification				: Metallic  
+Boiling Point				: 2742K
+Melting Point				: 1560K 
+Superconducting temperature		: 0.026K   
+Density					: 1.85g/cm3 
+
+Atomic Volume 				: 5 cm3 mol^-1 
+Electronegativity 			: 1.57 
+Magnetic ordering 			: Diamagnetic 
+Mass magnetic susceptibility 		: -1.26 x 10^-8 
+Molar magnetic susceptibility 		: -1.136 x 10^-10 
+Speed of sound 				: 12870 m s-1 
+
+	Thermal Properties 
+Enthalpy of Atomization 		: 326.4 kJ mol^-1 
+Enthalpy of Fusion 			: 9.80 kJ mol^-1 
+Enthalpy of Vaporisation 		: 308.8 kJ mol-1 
+Heat Capacity				: 16.443 J mol^-1 K^-1 
+Thermal Conductivity			: 200 W m^-1 K^-1 
+Thermal Expansion			: 11.3 um m^-1 K^-1  
+
+	Hardness 
+Brinell hardness 			: 600 MPa 
+Mohs hardness 				: 5.5 
+Vickers hardness 			: 1670 MPa 
+
+	Elastic Properties 
+Bulk modulus 				: 130 GPa 
+Poisson ratio				: 0.032 
+Shear modulus				: 132 GPa 
+Young's modulus				: 287 GPa 
+
+	Chemical Properties 
+Electrochemical Equivalent 		: 0.16812 g Ah^-1 
+Electron Work Function 			: 4.98 eV 
+Valence Electron Potential (-eV) 	: 82 
+Ionization Potential   			: First  9.322, Second  18.211, Third  153.893 
+Incompatibilities 			: Acids and strong bases, carbon tetrachloride (CCl4), phos- phorous 3-chlorolithium, caustics, chlorinated hydrocarbons, oxidizers, m 

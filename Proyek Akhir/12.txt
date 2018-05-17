@@ -1,0 +1,48 @@
+Atom number				: 12
+Atom mass				: 24.3050 g/mol  
+Group No				: 2  
+Group Name				: Alkaline earth metal  
+Block					: s-block
+Period					: 3  
+State					: solid at 298 K  
+Colour					: silvery white
+Classification				: Metallic  
+Boiling Point				: 1363K 
+Melting Point				: 923K  
+Density					: 1.738g/cm3 
+Availability				: Magnesium is the eight most abundant element in the Earth's crust, about 2% by weight.  
+
+Atomic Volume 				: 13.97 cm3 mol^-1 
+Electronegativity			: 1.31 
+Magnetic ordering			: Paramagnetic 
+Mass magnetic susceptibility		: 6.9 x 10^-9 
+Molar magnetic susceptibility		: 1.68 x 10^-10 
+Speed of sound				: 4940 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization			: 148.5 kJ mol^-1 
+Enthalpy of Fusion			: 9.04 kJ mol^-1 
+Enthalpy of Vaporisation		: 127.6 kJ mol^-1 
+Heat Capacity				: 24.869 J mol^-1 K^-1 
+Thermal Conductivity			: 156 W m^-1 K^-1 
+Thermal Expansion			: 24.8 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness			: 260 MPa 
+Mohs hardness				: 2.5 
+
+	Elastic Properties 
+Bulk modulus				: 45 GPa 
+Poisson ratio				: 0.29 
+Shear modulus				: 17 GPa 
+Young's modulus				: 45 GPa 
+
+	Electrical Properties 
+Electrical resistivity			: 4.4 x 10^-7 ohm m  
+Electrical conductivity			: 0.226 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent		: 0.45341 g Ah^-1 
+Electron Work Function			: 3.66 eV 
+Valence Electron Potential (-eV)	: 40 
+Ionization Potential   			: First  7.646, Second  15.035, Third  80.143 

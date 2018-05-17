@@ -1,0 +1,38 @@
+Atom number				: 61 
+Atom mass				: [145] g/mol  
+Group Name: Lanthanoids  
+Block: f-block   
+Period: 6 (lanthanoid)  
+State: solid at 298 K  
+Colour: metallic 
+Classification: Metallic  
+Boiling Point: 3273K
+Melting Point: 1373K 
+Density: 7.26g/cm3 
+
+Atomic Volume: 22.39 cm3 mol^-1 
+Electronegativity: 1.13 
+Magnetic ordering: No data 
+
+	Thermal Properties 
+Enthalpy of Atomization: 310 kJ mol^-1 
+Enthalpy of Fusion: 12.6 kJ mol^-1 
+Enthalpy of Vaporisation: No data. 
+Heat Capacity: No data. 
+Thermal Conductivity :17.9 W m^-1 K^-1 
+Thermal Expansion: est. 11 um m^-1 K^-1 
+
+	Elastic Properties 
+Bulk modulus: est. 33 GPa 
+Poisson ratio: est. 0.28 
+Shear modulus: est. 18 GPa 
+Young's modulus: est. 46 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 7.5 x 10^-7 ohm m  
+Electrical conductivity: ? 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent :1.8022 g Ah^-1 
+Valence Electron Potential: (-eV) 44.1 
+Ionization Potential  : First  5.554, Second  10.903, Third  22.283 

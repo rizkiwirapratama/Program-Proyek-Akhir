@@ -1,0 +1,51 @@
+Atom number				: 50  
+Atom mass				: 118.710 g/mol  
+Group No: 14  
+Group Name: Metals  
+Block: p-block  
+Period: 5  
+State: solid at 298 K  
+Colour: silvery lustrous grey 
+Classification: Metallic  
+Boiling Point: 2875K 
+Melting Point: 505.08K
+Superconducting temperature: 3.72K
+Density: (white) 7.265g/cm3 
+Density: (grey) 5.769g/cm3 
+
+Atomic Volume: 16.3 cm3 mol-1 
+Electronegativity: 1.96 
+Magnetic ordering :No data 
+Mass magnetic susceptibility: -3.1 x 10^-9 
+Molar magnetic susceptibility: -3.68 x 10^-10 
+Speed of sound :2730 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 301.3 kJ mol^-1 
+Enthalpy of Fusion :7.2 kJ mol^-1 
+Enthalpy of Vaporisation :296.2 kJ mol^-1 
+Heat Capacity: 27.112 J mol^-1 K^-1 
+Thermal Conductivity: 66.8 W m^-1 K^-1 
+Thermal Expansion: 22.0 um m^-1 K^-1 
+
+	Hardness 
+Brinell hardness: 51 MPa 
+Mohs hardness: 1.5 
+
+	Elastic Properties 
+Bulk modulus: 58 GPa 
+Poisson ratio: 0.36 
+Shear modulus: 18 GPa 
+Young's modulus: 50 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 1.1 x 10^-7 ohm m  
+Electrical conductivity :0.0917 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.1071 g Ah-1 
+Electron Work Function: 4.42 eV 
+Valence Electron Potential (-eV): 83.5 
+Ionization Potential : First  7.344, Second  14.632, Third  30.502 
+Incompatibilities: Chlorine, turpentine, acids, alkalis.  
+Flammability : Non-combustible solid (except as dust 

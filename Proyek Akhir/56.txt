@@ -1,0 +1,45 @@
+Atom number				: 56
+Atom mass				: 137.327 (7) g/mol  
+Group No: 2  
+Group Name: Alkaline earth metal  
+Block: s-block  
+Period: 6  
+State: solid  
+Colour: silvery white 
+Classification: Metallic  
+Boiling Point: 2143K 
+Melting Point: 1000K
+Density: 3.51g/cm3 
+
+Atomic Volume: 39.24 cm3 mol^-1 
+Electronegativity: 0.89 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: 1.13 x 10^-8 
+Molar magnetic susceptibility: 1.552 x 10^-9 
+Speed of sound: 1620 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 175.7 kJ mol^-1
+Enthalpy of Fusion: 7.66 kJ mol^-1 
+Enthalpy of Vaporisation: 150.9 kJ mol^-1 
+Heat Capacity: 28.07 J mol^-1 K^-1 
+Thermal Conductivity: 18.4 W m^-1 K^-1 
+Thermal Expansion: 20.6 um m^-1 K^-1 
+ 
+	Hardness 
+Mohs hardness: 1.25 
+
+	Elastic Properties 
+Bulk modulus: 9.6 GPa 
+Shear modulus: 4.9 GPa 
+Young's modulus: 13 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 3.5 x 10^-7 ohm m  
+Electrical conductivity: 0.3 10^6/cm ohm 
+
+	Chemical Properties 
+Electrochemical Equivalent: 2.5621 g Ah^-1 
+Electron Work Function: 2.7 eV 
+Valence Electron Potential (-eV): 21.3 
+Ionization Potential  : First  5.212, Second  10.004 

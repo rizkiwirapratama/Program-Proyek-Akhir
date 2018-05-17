@@ -1,0 +1,42 @@
+Atom number				: 80 
+Atom mass				: 200.59 g/mol  
+Group No: 12  
+Group Name: Transition metals  
+Block: d-block  
+Period: 6  
+State: liquid at 298 K (the heaviest known elemental liquid)  
+Colour: silvery white 
+Classification: Metallic  
+Boiling Point: 629.88 
+Melting Point: 234.32K
+Critical temperature: 1750K 
+Superconducting temperature: 3.95K
+Density: (liquid) 13.534g/cm3 
+
+Atomic Volume: 14.82 cm3 mol^-1 
+Electronegativity: 2.00 
+Magnetic ordering: Dimagnetic 
+Mass magnetic susceptibility: -2.1 x 10^-9 
+Molar magnetic susceptibility: -4.21 x 10^-10 
+Speed of sound: 1451.4 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 61.5 kJ mol^-1 
+Enthalpy of Fusion: 2.33 kJ mol^-1 
+Enthalpy of Vaporisation: 59.1 kJ mol^-1 
+Heat Capacity: 27.983 J mol^-1 K^-1 
+Thermal Conductivity :8.30 W m-1 K-1 
+Thermal Expansion: 60.4 um m-1 K-1 
+Critcal Temperature: 1750 K 
+
+	Electrical Properties 
+Electrical resistivity: 9.6 x 10^-7 ohm m  
+Electrical conductivity: 0.0104 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent:3.742 g Ah^-1 
+Electron Work Function: 4.49 eV 
+Valence Electron Potential (-eV): 28.2 
+Ionization Potential  : First  10.437, Second  18.759, Third  34.202 
+Incompatibilities : Acetylene (C2H2), ammonia (NH3), chlorine dioxide (ClO2), azides, calcium (amalgam formation), sodium carbide (NaC), lithium, rubidium, copper.  
+Flammability : Noncombustible Liquid 

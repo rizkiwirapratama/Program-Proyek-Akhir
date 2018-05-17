@@ -1,0 +1,32 @@
+Atom number				: 87 
+Atom mass				: [223] g/mol  
+Group No: 1  
+Group Name: Alkali metal  
+Block: s-block  
+Period: 7  
+State: solid at 298 K  
+Colour: Metallic 
+Classification: Metallic  
+Boiling Point: 950K  
+Melting Point: 300K 
+Density: 1.87g/cm3 
+
+Atomic Volume: cm3 mol^-1 
+Electronegativity: 0.7 
+Magnetic ordering: No data 
+
+	Thermal Properties 
+Enthalpy of Atomization: 71 kJ mol^-1 
+Enthalpy of Fusion: No data. 
+Enthalpy of Vaporisation: No data. 
+Heat Capacity :? 15 J mol^-1 K^-1 
+Thermal Conductivity: No data 
+
+	Electrical Properties 
+Electrical resistivity: No data. 
+Electrical conductivity: 0.03 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 8.3209 g Ah^-1 
+Valence Electron Potential (-eV): 8 
+Ionization Potential  : First  3.83 

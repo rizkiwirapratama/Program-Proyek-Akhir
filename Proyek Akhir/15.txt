@@ -1,0 +1,44 @@
+Atom number				: 15
+Atom mass				: 30.973761 g/mol  
+Group No				: 15  
+Group Name				: Pnictogen  
+Block					: p-block 
+Period					: 3  
+State					: solid at 298 K  
+Colour					: colourless/red/silvery white
+Classification				: Non-metallic  
+Boiling Point				: 550K 
+Melting Point				: 317.3K 
+Critical temperature			: 994K 
+Density					: (white) 1.823g/cm3 
+Density					: (red) 2.34g/cm3 
+Density					: (black) 2.69g/cm3 
+
+Atomic Volume				: 17.02 cm3 mol^-1 
+Electronegativity			: 2.19 
+Magnetic ordering			: No data 
+Mass magnetic susceptibility		: -1.13 x 10^-8 
+Molar magnetic susceptibility		: -3.5 x 10^-10 
+
+	Thermal Properties 
+Enthalpy of Atomization			: 314.6 kJ mol^-1  
+Enthalpy of Fusion			: 2.51 (white) kJ mol^-1 
+Enthalpy of Vaporisation		: 51.9 (white) kJ mol^-1 
+Heat Capacity				: (white) 23.824 J mol^-1 K^-1 
+Thermal Conductivity			: (white) 0.236 W m^-1 K^-1 
+Thermal Expansion			: No data. 
+Critcal Temperature			: 994 K
+
+	Elastic Properties 
+Bulk modulus				: 11 GPa 
+
+	Electrical Properties 
+Electrical resistivity			: No data. 
+Electrical conductivity			: 1 x 10^-17 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent		: 0.23113 g Ah^-1 
+Valence Electron Potential (-eV)	: 190 
+Ionization Potential   			: First  10.486, Second  19.725, Third  30.18 
+Incompatibilities			: Air, oxidizers (including elemental sulfur and strong caustics), halogens.  
+Flammability 				: Flammable solid  

@@ -1,0 +1,48 @@
+Atom number				: 81 
+Atom mass				: 204.3833 g/mol  
+Group No: 13  
+Group Name: Metals  
+Block: p-block  
+Period: 6  
+State: solid at 298 K  
+Colour: silvery white 
+Classification: Metallic  
+Boiling Point: 1746K 
+Melting Point: 577K  
+Superconducting temperature: 2.38K 
+Density: 11.85g/cm3 
+
+Atomic Volume 17.2 cm3 mol^-1 
+Electronegativity 1.62 
+Magnetic ordering No data 
+Mass magnetic susceptibility -3 x 10^-9 
+Molar magnetic susceptibility -6.13 x 10^-10 
+Speed of sound: 818 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 179.9 kJ mol^-1
+Enthalpy of Fusion: 4.31 kJ mol^-1 
+Enthalpy of Vaporisation: 166.1 kJ mol^-1 
+Heat Capacity: 26.32 J mol^-1 K^-1 
+Thermal Conductivity: 46.1 W m^-1 K^-1 
+Thermal Expansion: 29.9 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 26.4 MPa 
+Mohs hardness: 1.2 
+
+	Elastic Properties 
+Bulk modulus: 43 GPa 
+Poisson ratio: 0.45 
+Shear modulus: 2.8 GPa 
+Young's modulus: 8 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 1.5 x 10-7 ohm m  
+Electrical conductivity: 0.0617 106/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 7.625 g Ah-1 
+Electron Work Function: 3.84 eV 
+Valence Electron Potential: (-eV) 9.6 
+Ionization Potential : First  6.108, Second  20.428, Third  29.829 

@@ -1,0 +1,50 @@
+Atom number				: 45 
+Atom mass				: 102.90550) g/mol  
+Group No				: 9  
+Group Name				: Precious metal or Platinum group metal  
+Block: d-block  
+Period: 5  
+State: solid  
+Colour: silvery white metallic 
+Classification: Metallic  
+Boiling Point: 3968K 
+Melting Point: 2237K 
+Density: 12.41g/cm3 
+
+Atomic Volume: 8.3 cm3 mol^-1 
+Electronegativity: 2.28 
+Magnetic ordering: No data 
+Mass magnetic susceptibility :1.32 x 10^-8 
+Molar magnetic susceptibility: 1.358 x 10^-9 
+Speed of sound: 4700 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 556.5 kJ mol^-1  
+Enthalpy of Fusion: 21.55 kJ mol^-1 
+Enthalpy of Vaporisatio: 494.3 kJ mol^-1 
+Heat Capacity ;24.98 J mol^-1 K^-1 
+Thermal Conductivity : 150 W m^-1 K^-1 
+Thermal Expansion: 8.2 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 1100 MPa 
+Mohs hardness: 6.0 
+Vickers hardness: 1246 MPa 
+
+	Elastic Properties 
+Bulk modulus: 380 GPa 
+Poisson ratio: 0.26 
+Shear modulus: 150 GPa 
+Young's modulus: 275 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 4.3 x 10^-8 ohm m  
+Electrical conductivity: 0.211 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: .2798 g Ah^-1 
+Electron Work Function: 4.98 eV 
+Valence Electron Potential: (-eV) 64 
+Ionization Potential :   First  7.46, Second  18.08, Third  31.06 
+Incompatibilities Chlorine trifluoride (ClF3), oxygen difluoride (OF2).  
+Flammability :Non-combustible solid (except as dust)  

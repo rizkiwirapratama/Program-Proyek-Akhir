@@ -1,0 +1,20 @@
+Atom number			: 96
+Atom mass			: [247] g/mol 
+Group Name: Actinoid  
+Block: f-block  
+Period: 7 (actinoid)  
+State: solid at 298 K  
+Colour: silver 
+Classification: Metallic  
+Boiling Point: 3383K 
+Melting Point: 1613K
+Density: 13.51g/cm3 
+
+Atomic Volume': 18.28 cm3 mol^-1 
+Electronegativity': 1.28 
+Magnetic ordering: No data 
+
+	Chemical Properties 
+Electrochemical Equivalent: 3.0727 g Ah^-1 
+Valence Electron Potential (-eV): 44.5 
+Ionization Potential  : First  6.02 

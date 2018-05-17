@@ -1,0 +1,33 @@
+Atom number				: 6  
+Atom mass				: 12.0107 g/mol  
+Group No				: 14  
+Group Name				: Non-metals  
+Block					: p-block
+Period					: 2  
+State: solid at				: 298 K  
+Colour					: graphite is black, diamond is colourless
+Classification				: Non-metallic  
+Boiling Point				: 4300K 
+Melting Point				: 3800K 
+Density					: (graphite) 2.267g/cm3 
+Density					: (diamond) 3.513g/cm3 
+
+Atomic Volume				: 4.58 cm3 mol^-1 
+Electronegativity 			: 2.55 
+Magnetic ordering			: Diamagnetic 
+Mass magnetic susceptibility 		: -6.2 x 10^-9 
+Molar magnetic susceptibility 		: -7.45 x 10^-11 
+
+	Thermal Properties 
+Enthalpy of Atomization 		: No data. 
+Enthalpy of Fusion 			: 105.0 kJ mol^-1 
+Enthalpy of Vaporisation 		: 710.9 kJ mol-1 
+Heat Capacity 				: (graphite) 8.517 J mol^-1 K^-1 
+Thermal Conductivity 			: (graphite) 119-165 W m^-1 K^-1 
+
+	Hardness 
+Mohs hardness 				: 1-2 graphite, 10 diamond 
+  
+	Chemical Properties 
+Ionization Potential   			: First  11.26, Second  24.383, Third  47.887 
+Incompatibilities 			: Very strong oxidizers such as fluorine, chlorine trifluoride (ClF3)and potassium peroxide (K2O2).  

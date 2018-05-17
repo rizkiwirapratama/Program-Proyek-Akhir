@@ -1,0 +1,49 @@
+Atom number				: 20 
+Atom mass				: 40.078 g/mol  
+Group No				: 2  
+Group Name				: Alkaline earth metal  
+Block					: s-block
+Period					: 4  
+State					: solid at 298 K  
+Colour					: silvery white
+Classification				: Metallic  
+Boiling Point				: 1757K  
+Melting Point				: 1115K  
+Density					: 1.55g/cm3 
+
+Atomic Volume				: 29.9 cm3 mol^-1 
+Electronegativity			: 1.00 
+Magnetic ordering			: Paramagnetic 
+Mass magnetic susceptibility		: 1.38 x 10^-8 
+Molar magnetic susceptibility		: 5.531 x 10^-10 
+Speed of sound				: 3810 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization			: 184 kJ mol^-1 
+Enthalpy of Fusion			: 9.33 kJ mol^-1 
+Enthalpy of Vaporisation 150.6 kJ mol^-1 
+Heat Capacity				: 25.929 J mol^-1 K^-1 
+Thermal Conductivity			: 201 W m^-1 K^-1 
+Thermal Expansion			: 22.3 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness			: 167 MPa 
+Mohs hardness				: 1.75 
+	
+	Elastic Properties 
+Bulk modulus				: 17 GPa 
+Poisson ratio				: 0.31 
+Shear modulus				: 7.4 GPa 
+Young's modulus				: 20 GPa 
+	
+	Electrical Properties 
+Electrical resistivity			: 3.4 x 10^-8 ohm m  
+Electrical conductivity			: 0.298 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent		: 0.7477 g Ah^-1 
+Electron Work Function			: 2.87 eV 
+Valence Electron Potential (-eV)	: 29 
+Ionization Potential   			: First  6.113, Second  11.871, Third  50.908 
+Incompatibilities			: Water, oxidizers, acids, air, chlorine, chlorine tri-fluoride (ClF3), fluorine, oxygen, silicon, sulfur.  
+Flammability 				: Flammable solid  

@@ -1,0 +1,19 @@
+Atom number		: 113 
+Atom mass		: [284] g/mol  
+Group No: 13  
+Group Name: Transactinides  
+Block: p-block  
+Period: 7  
+State: presumably a solid at 298 K  
+Colour: unknown, but probably metallic and silvery white or grey in appearance 
+Classification: Metallic   
+Availability: This item is purely synthetic and is not available commercially 
+
+	Discovery Information  
+Who: Dubna (Joint Institute for Nuclear Research) 
+When: 2004 
+Where: Russia 
+
+	Sources  
+Experiments resulting in the formation of element 113 were reported in February 2004 following experiments carried out between 14 July - 10 August 2003 involving scientists at Dubna (Joint Institute for Nuclear Research at the U400 cyclotron with the Dubna gas-filled recoil separator, DGFRS) in Russia in a collaboration also involving scientists at the Lawrence Livermore National Laboratory, USA. In these experiments, the primary product were four nuclei of element 115 isotopes. All these four nuclei decayed through the emission of a-particles to isotopes of element 113. The claim has not yet been ratified, but the results are now published in a reputable peer-reviewed journal.  
+

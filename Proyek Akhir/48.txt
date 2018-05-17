@@ -1,0 +1,51 @@
+Atom number				: 48
+Atom mass				: 112.411 g/mol  
+Group No: 12  
+Group Name: Transition metals  
+Block: d-block  
+Period: 5  
+State: solid at 298 K  
+Colour: silvery grey metallic
+Classification: Metallic  
+Boiling Point: 1040K 
+Melting Point: 594.22K
+Superconducting temperature: 0.517K 
+Density: 8.65g/cm3 
+
+Atomic Volume: 13.1 cm3 mol^6-1 
+Electronegativity: 1.69 
+Magnetic ordering :No data 
+Mass magnetic susceptibility: -2.3 x 10^-9 
+Molar magnetic susceptibility :-2.59 x 10^-10 
+Speed of sound: 2310 m s^-1 
+
+Thermal Properties 
+Enthalpy of Atomization: 113 kJ mol
+Enthalpy of Fusion: 6.11 kJ mol^-1 
+Enthalpy of Vaporisation: 100 kJ mol^-1 
+Heat Capacity: 26.020 J mol^-1 K^-1 
+Thermal Conductivity :96.6 W m^-1 K^-1 
+Thermal Expansion: 30.8 um m^-1 K^-1 
+Critcal Temperature: No data. 
+ 
+	Hardness 
+Brinell hardness: 203 MPa 
+Mohs hardness: 2.0 
+
+	Elastic Properties 
+Bulk modulus: 42 GPa 
+Poisson ratio: 0.30 
+Shear modulus: 19 GPa 
+Young's modulus: 50 GPa 
+
+	Electrical Properties 
+Electrical resistivity :7 x 10^-8 ohm m  
+Electrical conductivity: 0.138 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 2.097 g Ah-1 
+Electron Work Function: 4.22 eV 
+Valence Electron Potential (-eV): 30 
+Ionization Potential :   First  8.993, Second  16.908, Third  37.48 
+Incompatibilities: Strong oxidizers, ammonium nitrate (NH4NO3), hydrazoic acid (HN3), tellurium, zinc, elemental sulfur, selenium.  
+Flammability : Non-combustible solid (except as dust 

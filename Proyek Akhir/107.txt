@@ -1,0 +1,17 @@
+Atom number		: 107 N: 262  
+Atom mass		: [264] g/mol  
+Group No: 7  
+Group Name: Transactinides  
+Block: d-block  
+Period: 7  
+State: presumably a solid  
+Colour: unknown, but probably metallic and silvery white or grey in appearance 
+Classification: Metallic 
+
+	Discovery Information  
+Who: Soviet scientists at the Joint Institute for Nuclear Research 
+When: 1976 
+Where: Dubna, USSR 
+
+	Sources  
+Synthetically by bombarding Bi204 with heavy nuclei of Cr54

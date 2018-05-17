@@ -1,0 +1,32 @@
+Atom number				: 88  
+Atom mass				: [226] g/mol  
+Group No: 2  
+Group Name: Alkaline earth metal  
+Block: s-block  
+Period: 7  
+State: solid  
+Colour: metallic 
+Classification: Metallic  
+Boiling Point: 2010K
+Melting Point: 973K
+Density: 5.5g/cm3 
+
+Atomic Volume :45.2 cm3 mol^-1 
+Electronegativity: 0.9 
+Magnetic ordering: Non-magnetic 
+
+	Thermal Properties 
+Enthalpy of Atomization: 163 kJ mol^-1   
+Enthalpy of Fusion: 7.15 kJ mol^-1 
+Enthalpy of Vaporisation: 136.7 kJ mol^-1 
+Heat Capacity: No data. 
+Thermal Conductivity: 18.6 W m^-1 K^-1 
+Thermal Expansion: No data. 
+ 
+	Electrical Properties 
+Electrical resistivity: 1.00 x 10^-6 ohm m  
+  
+	Chemical Properties 
+Electrochemical Equivalent: 4.2165 g Ah^-1 
+Valence Electron Potential: (-eV) 20.1 
+Ionization Potential  : First  5.279, Second  10.148 

@@ -1,0 +1,38 @@
+Atomic number				: 3
+Atomic mass				: [6.941 (2)] g/mol  
+Group No				: 1  
+Group Name				: Alkali metal  
+Block					: s-block
+Period					: 2  
+State					: solid at 298 K  
+Colour					: silvery white/grey
+Classification				: Metallic  
+Boiling Point				: 1615K 
+Melting Point				: 453.69K 
+Critical temperature			: 3223K
+Density					: 0.534g/cm3 
+
+Atomic Volume 				: 13.1 cm3 mol-1 
+Electronegativity 			: 0.98 
+Magnetic ordering			: Non-magnetic 
+Mass magnetic susceptibility 		: 6.3 x 10^-9 
+Molar magnetic susceptibility 		: 4.37 x 10^-11 
+Speed of sound				: 6000 m s-1 
+
+	Thermal Properties 
+Enthalpy of Atomization 		: 160.7 kJ mol-1 
+Enthalpy of Fusion			: 4.50 kJ mol-1 
+Enthalpy of Vaporisation 		: 147.7 kJ mol-1 
+Heat Capacity 				: 24.860 J mol-1 K-1 
+Thermal Conductivity 			: 84.8 W m-1 K-1 
+Thermal Expansion 			: 46 um m-1 K-1 
+Critcal Temperature 			: 3223 K 
+Critcal Pressure 			: No data. 
+Adiabatic index 			: No data. 
+Mohs hardness 				: 0.6 
+
+	Elastic Properties 
+Bulk modulus 				: 11 GPa 
+Shear modulus 				: 4.2 GPa 
+Young's modulus				: 4.9 GPa 
+

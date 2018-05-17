@@ -1,0 +1,48 @@
+Atom number				: 28   
+Atom mass				: 58.6934 g/mol  
+Group No: 10  
+Group Name: Transition metals  
+Block: d-block  
+Period: 4  
+State: solid at 298 K  
+Colour: lustrous, metallic, silvery tinge 
+Classification: Metallic  
+Boiling Point: 3186K  
+Melting Point: 1728K  
+Density: 8.908g/cm3 
+
+Atomic Volume :6.59 cm3 mol^-1 
+Electronegativity :1.91 
+Magnetic ordering: Ferromagnetic 
+Speed of sound: 4900 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 422.6 kJ mol^-1
+Enthalpy of Fusion: 17.6 kJ mol^-1 
+Enthalpy of Vaporisation: 374.8 kJ mol^-1 
+Heat Capacity : 26.07 J mol^-1 K^-1 
+Thermal Conductivity: 90.9 W m^-1 K^-1 
+Thermal Expansion: 13.4 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 700 MPa 
+Mohs hardness: 4.0 
+Vickers hardness: 638 MPa 
+	
+	Elastic Properties 
+Bulk modulus: 180 GPa 
+Poisson ratio: 0.31 
+Shear modulus : 76 GPa 
+Young's modulus: 200 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 7 x 10^-8 ohm m  
+Electrical conductivity: 0.143 10^6/cm ohm  
+	
+	Chemical Properties 
+Electrochemical Equivalent :1.095 g Ah^-1 
+Electron Work Function : 5.15 eV 
+Valence Electron Potential (-eV): 42 
+Ionization Potential   : First  7.635, Second  18.168, Third  35.17 
+Incompatibilities : Strong acids, sulfur, selenium, wood (and other combustibles), nickel nitrate.  
+Flammability : Combustible Solid 

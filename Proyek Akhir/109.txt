@@ -1,0 +1,17 @@
+Atom number		: 109
+Atom mass		: [268] g/mol  
+Group No: 9  
+Group Name: Transactinides  
+Block: d-block  
+Period: 7  
+State: presumably a solid at 298 K  
+Colour: unknown, but probably metallic and silvery white or grey in appearance 
+Classification: Metallic 
+
+	Discovery Information  
+Who: Physicists at the Heavy Ion Research Laboratory 
+When: 1982 
+Where: Darmstadt, West Germany 
+
+	Sources  
+First synthetically produced by bombarding 209Bi with accelerated nuclei of 58Fe.  

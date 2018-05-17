@@ -1,0 +1,45 @@
+Atom number				: 92
+Atom mass				: 238.02891 (3) g/mol
+Group Name: Actinoid  
+Block: f-block  
+Period: 7 (actinoid)  
+State: solid at 298 K  
+Colour: metallic grey 
+Classification: Metallic  
+Boiling Point: 4200K 
+Melting Point: 1405.3K 
+Superconducting temperature: 0.2K
+Density: 19.1g/cm3 
+
+Atomic Volume: 12.59 cm3 mol^-1 
+Electronegativity: 1.38 
+Magnetic ordering :Paramagnetic 
+Mass magnetic susceptibility: 2.15 x 10^-8 
+Molar magnetic susceptibility: 5.118 x 10^-9 
+Speed of sound: 3155 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 489.5 kJ mol^-1   
+Enthalpy of Fusion: 15.5 kJ mol^-1 
+Enthalpy of Vaporisation: 417.1 kJ mol^-1 
+Heat Capacity: 27.665 J mol-1 K^-1 
+Thermal Conductivity: 27.5 W m^-1 K^-1 
+Thermal Expansion: 13.9 m m^-1 K^-1 
+ 
+	Elastic Properties 
+Bulk modulus: 100 GPa 
+Poisson ratio: 0.23 
+Shear modulus: 111 GPa 
+Young's modulus: 208 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 2.8 x 10^-7 ohm m  
+Electrical conductivity: 0.038 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.4801 g Ah^-1 
+Electron Work Function: 3.63 eV 
+Valence Electron Potential (-eV): 170 
+Ionization Potential   : First  6.05 
+Incompatibilities : Carbon dioxide (CO2), carbon tetrachloride (CCl4), nitric acid (HNO3), fluorine.  
+Flammability : Combustible Solid 

@@ -1,0 +1,46 @@
+Atom number				: 62  
+Atom mass				: 150.36 g/mol  
+Group Name: Lanthanoids  
+Block: f-block  
+Period: 6 (lanthanoid)  
+State: solid at 298 K  
+Colour: silvery white 
+Classification: Metallic  
+Boiling Point: 2076K
+Melting Point: 1345K
+Density: 7.52g/cm3 
+
+Atomic Volume: 19.95 cm3 mol^-1 
+Electronegativity :1.17 
+Magnetic ordering: Antiferromagnetic 
+Mass magnetic susceptibility: 1.11 x 10^-7 
+Molar magnetic susceptibility: 1.669 x 10^-8 
+Speed of sound: 2130 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 209 kJ mol^-1 
+Enthalpy of Fusion: 10.9 kJ mol^-1 
+Enthalpy of Vaporisation: 164.8 kJ mol^-1 
+Heat Capacity: 29.54 J mol^-1 K-1 
+Thermal Conductivity: 13.3 W m^-1 K^-1 
+Thermal Expansion: 12.7 um m^-1 K^-1 
+
+	Hardness 
+Brinell hardness: 441 MPa 
+Vickers hardness; 412 MPa 
+	
+	Elastic Properties 
+Bulk modulus: 37.8 GPa 
+Poisson ratio: 0.274 
+Shear modulus: 19.5 GPa 
+Young's modulus: 49.7 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 9.4 x 10^-7 ohm m  
+Electrical conductivity: 0.00956 10^6/cm ohm 
+
+	Chemical Properties 
+Electrochemical Equivalent: 1.87 g Ah^-1 
+Electron Work Function: 2.7 eV 
+Valence Electron Potential: (-eV) 44.8 
+Ionization Potential  : First  5.64, Second  11.069, Third  23.423 

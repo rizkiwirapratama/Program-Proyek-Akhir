@@ -1,0 +1,35 @@
+Atom number			: 1
+Atom mass			: 1.00794 g/mol  
+Group No			: 1  
+Group Name			: Non-metals  
+Block				: s-block
+Period				: 1  
+State: gas at 298 K (the lightest gas known)  
+Colour				: colourless 
+Classification			: Non-metallic  
+Boiling Point			: 20.268K 
+Melting Point			: 14.01K
+Critical temperature		: 33K 
+Density				: 0.08988g/cm3 
+
+Atomic Volume 			: 14.4 cm3 mol^-1 
+Electronegativity 		: 2.20 
+Magnetic ordering 		: No data 
+Mass magnetic susceptibility 	: -2.48 x 10^-8 
+Molar magnetic susceptibility 	: -2.5 x 10^-11 
+Speed of sound 			: 1310 m s^-1 
+	
+	Thermal Properties 
+Enthalpy of Atomization 	: 217.6 kJ mol^-1 
+Enthalpy of Fusion 		: 0.12 kJ mol^-1 
+Enthalpy of Vaporisation	: 0.46 kJ mol^-1 
+Heat Capacity 			: 28.836 (H2) J mol^-1 K^-1 
+Thermal Conductivity 		: 180.5 W m^-1 K^-1 
+Thermal Expansion 		: No data. 
+Critcal Temperature 		: 33 K  
+
+	Chemical Properties 
+Electrochemical Equivalent 	: 0.037605 g Ah^-1 
+Valence Electron Potential (-eV): 1200 
+Ionization Potential   		: First  13.598 
+Incompatibilities		: Metals, oxidizing materials, metal oxides, combustible materials, halogens, metal salts, halo carbons 

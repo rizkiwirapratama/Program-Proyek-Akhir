@@ -1,0 +1,25 @@
+Atom number			: 102 
+Atom mass			: [259] g/mol
+Group Name: Actinoid  
+Block: f-block  
+Period: 7 (actinoid)  
+State: presumably a solid at 298 K  
+Colour: unknown, but probably metallic and silvery white or grey in appearance 
+Classification: unknown, but probably metallic and silvery white or grey in appearance  
+Boiling Point: unknown  
+Melting Point: 1100K
+Electronegativity: 1.3 
+Electrochemical Equivalent: 4.83 g Ah^-1 
+Valence Electron Potential (-eV): 26 
+Ionization Potential   :First  6.65 
+
+	Discovery Information  
+Who: A. Ghiorso, T.Sikkeland, A.E.Larsh, R.M.Latimer  
+When: 1957 
+Where: Sweden 
+
+	Sources  
+Only very small quantities of nobelium have ever been created. Made by bombarding curium with carbon-13.  
+ 
+	Uses  
+Little is known about nobelium and only small quantities of it have ever been produced. It has no uses whatsoever outside of the laboratory.  

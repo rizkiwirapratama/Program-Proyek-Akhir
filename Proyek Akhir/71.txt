@@ -1,0 +1,47 @@
+Atom number				: 71 
+Atom mass				: 174.967 g/mol  
+Group No: 3  
+Group Name: Lanthanoids  
+Block: d-block  
+Period: 6  
+State: solid at 298 K  
+Colour: silvery white 
+Classification: Metallic  
+Boiling Point: 3675K 
+Melting Point: 1925K 
+Superconducting temperature: 0.022K 
+Density: 9.841g/cm3 
+
+Atomic Volume: 17.78 cm3 mol^-1 
+Electronegativity: 1.27 
+Magnetic ordering: No data 
+Mass magnetic susceptibility: 1.2 x 10^-9 
+Molar magnetic susceptibility: 2.1 x 10^-10 
+
+	Thermal Properties 
+Enthalpy of Atomization: 398 kJ mol^-1  
+Enthalpy of Fusion: 19.2 kJ mol-1 
+Enthalpy of Vaporisation: 428 kJ mol^-1 
+Heat Capacity: 26.86 J mol^-1 K^-1 
+Thermal Conductivity: 16.4 W m^-1 K^-1 
+Thermal Expansion: 9.9 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness: 893 MPa 
+Vickers hardness: 1160 MPa 
+
+	Elastic Properties 
+Bulk modulus: 47.6 GPa 
+Poisson ratio: 0.261 
+Shear modulus: 27.2 GPa 
+Young's modulus: 68.6 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 5.6 x 10^-7 ohm m  
+Electrical conductivity: 0.0185 10^6/cm ohm 
+
+	Chemical Properties 
+Electrochemical Equivalent: 2.176 g Ah^-1 
+Electron Work Function: 3.3 eV 
+Valence Electron Potential (-eV): 50.9 
+Ionization Potential : First  5.4259, Second  13.888, Third  20.957 

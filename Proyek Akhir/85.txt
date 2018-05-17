@@ -1,0 +1,27 @@
+Atom number				: 85 
+Atom mass				: [210] g/mol  
+Group No: 17  
+Group Name: Halogen  
+Block: p-block  
+Period: 6  
+State: solid at 298 K  
+Colour: metallic 
+Classification: Semi-metallic  
+Boiling Point: 610K 
+Melting Point: 575K
+Density: unknown 
+
+Electronegativity: 2.2 
+Magnetic ordering :No data 
+
+	Thermal Properties 
+Enthalpy of Atomization: 92 kJ mol^-1
+Enthalpy of Fusion: 23.8 kJ mol^-1 
+Enthalpy of Vaporisation: No data. 
+Heat Capacity: No data. 
+Thermal Conductivity: 1.7 W m^-1 K^-1 
+Thermal Expansion: No data. 
+ 
+	Chemical Properties 
+Electrochemical Equivalent: 7.8346 g Ah^-1 
+Ionization Potential : First  9.65 

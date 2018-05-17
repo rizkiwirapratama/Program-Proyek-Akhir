@@ -1,0 +1,19 @@
+Atom number		: 110 
+Atom mass		: [281] g/mol  
+Group No		: 10  
+Group Name: Transactinides  
+Block: d-block  
+Period: 7  
+State: resumably a solid at 298 K  
+Colour: Unknown, but probably metallic and silvery white or grey in appearance. Man made radioactive metal. 
+Classification: Metallic  
+Availability: Dubnium is a synthetic element that is not present in the environment at all. It has no uses. 
+
+	Discovery Information  
+Who: GSI (Gesellschaft für Schwerionenforschung) 
+When: 1994 
+Where: Darmstadt, West Germany 
+
+	Sources  
+A synthetic element that is not present in the environment at all. Chemically, the element is in the same Group as nickel, palladium, and platinum (Group 10). Unlike these lighter atoms, element 110 decays after a small fraction of a thousandth of a second into lighter elements by emitting a-particles which are the nuclei of helium atoms.  
+The most stable known isotope, darmstadtium-281, has a half-life of approximately 10 seconds. 

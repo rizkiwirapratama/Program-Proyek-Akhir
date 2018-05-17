@@ -1,0 +1,14 @@
+Atom number		: 117
+Atom mass		: unknown g/mol  
+Group No: 17  
+Group Name: Halogen  
+Block: p-block  
+Period: 7  
+State: presumably a solid at 298 K  
+Colour: unknown, but probably metallic and dark in appearance  
+Classification: unknown 
+Availability: This element has yet to be isolated. 
+
+	Notes  
+In December 2015, it was announced that Tennessine had earned its place in the Perioidic Table. On the 15th of June 2016, Tennessine was announced as the official name for the element previously known as ununseptium.  
+These details are purely speculative as the element has yet to be isolated. 

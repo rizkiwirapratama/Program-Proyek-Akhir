@@ -1,0 +1,53 @@
+Atom number				: 34 
+Atom mass				: 78.96 g/mol  
+Group No: 16  
+Group Name: Chalcogen  
+Block: p-block  
+Period: 4  
+State: solid at 298 K  
+Colour: grey, metallic lustre 
+Classification: Non-metallic  
+Boiling Point: 958K 
+Melting Point: 494K  
+Critical temperature: 1766K
+Density: (gray) 4.81g/cm3 
+Density: (alpha) 4.39g/cm3 
+Density: (vitreous) 4.28g/cm3 
+
+Atomic Volume: 16.45 cm3 mol^-1 
+Electronegativity: 2.55 
+Magnetic ordering :No data 
+Mass magnetic susceptibility: -4 x 10^-9 
+Molar magnetic susceptibility: -3.16 x 10^-10 
+Speed of sound: 3350 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 205.9 kJ mol^-1
+Enthalpy of Fusion: 5.1 kJ mol^-1 
+Enthalpy of Vaporisation: 90 kJ mol^-1 
+Heat Capacity: 25.363 J mol^-1 K^-1 
+Thermal Conductivity: 0.519 W m^-1 K^-1 
+Thermal Expansion: 37 um m^-1 K^-1 
+Critcal Temperature: 1766 K 
+  
+	Hardness 
+Brinell hardness: 736 MPa 
+Mohs hardness: 2.0 
+
+	Elastic Properties 
+Bulk modulus: 8.3 GPa 
+Poisson ratio: 0.33 
+Shear modulus: 3.7 GPa 
+Young's modulus: 10 GPa 
+
+	ElectriCal Properties 
+Electrical resistivity: No data. 
+Electrical conductivity: 1 x 10^-12 10^6/cm Ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent: 0.7365 g Ah^-1 
+Electron Work Function: 5.9 eV 
+Valence Electron Potential (-eV): 120 
+Ionization Potential   : First  9.752, Second  21.19, Third  30.82 
+Incompatibilities: Acids, strong oxidizers, chromium trioxide (CrO3), potassium bromate (BrKO3), cadmium.  
+Flammability : Combustible Solid  

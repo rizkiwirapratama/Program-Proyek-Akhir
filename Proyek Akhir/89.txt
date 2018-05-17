@@ -1,0 +1,28 @@
+Atom number				: 89 
+Atom mass				: [227] g/mol  
+Group Name: Actinoid  
+Block: f-block  
+Period: 7 (actinoid)  
+State: solid at 298 K  
+Colour: silvery 
+Classification: Metallic  
+Boiling Point: 3753K
+Melting Point: 1323K 
+Critical pressure: 1.293 MPa  
+Density: 10g/cm3 
+
+Atomic Volume: 22.54 cm3 mol^-1 
+Electronegativity: 1.1 
+Magnetic ordering: No data 
+
+	Thermal Properties 
+Enthalpy of Atomization: 301 kJ mol^-1 
+Enthalpy of Fusion: 14.2 kJ mol^-1 
+Enthalpy of Vaporisation: 293 kJ mol^-1 
+Heat Capacity: 27.2 J mol^-1 K^-1 
+Thermal Conductivity: 12 W m^-1 K^-1 
+
+	Chemical Properties 
+Electrochemical Equivalent: 2.82347 g Ah^-1 
+Valence Electron Potential (-eV): 38.6 
+Ionization Potential  : First  5.17, Second  12.126 

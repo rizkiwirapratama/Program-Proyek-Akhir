@@ -1,0 +1,52 @@
+Atom number				: 23  
+Atom mass				: 50.9415  g/mol  
+Group No: 5  
+Group Name: Transition metals  
+Block: d-block
+Period: 4  
+State: solid at 298 K  
+Colour: silvery grey metallic
+Classification: Metallic  
+Boiling Point: 3680K   
+Melting Point: 2183K   
+Superconducting temperature: 5.40K  
+Density: 6.0g/cm3 
+Availability: Vanadium is available in several forms including foil, granules, powder, rod, and turnings. 
+
+Atomic Volume : 8.78 cm3 mol^-1 
+Electronegativity: 1.63 
+Magnetic ordering: No data 
+Mass magnetic susceptibility : 6.28 x 10^-8 
+Molar magnetic susceptibility  : 3.199 x 10^-9 
+Speed of sound 4560 m s^-1 
+
+	Thermal Properties 
+Enthalpy of Atomization: 514.6 kJ mol^-1  
+Enthalpy of Fusion :17.6 kJ mol^-1 
+Enthalpy of Vaporisation :459.7 kJ mol^-1 
+Heat Capacity :24.89 J mol^-1 K^-1 
+Thermal Conductivity: 30.7 W m^-1 K^-1 
+Thermal Expansion :8.4 um m^-1 K^-1 
+ 
+	Hardness 
+Brinell hardness :628 MPa 
+Mohs hardness :7.0 
+Vickers hardness :628 MPa 
+
+	Elastic Properties 
+Bulk modulus :160 GPa 
+Poisson ratio :0.37 
+Shear modulus :47 GPa 
+Young's modulus :128 GPa 
+
+	Electrical Properties 
+Electrical resistivity: 2.0 x 10^-7 ohm m  
+Electrical conductivity: 0.0489 10^6/cm ohm  
+
+	Chemical Properties 
+Electrochemical Equivalent :0.38013 g Ah^-1 
+Electron Work Function: 4.3 eV 
+Valence Electron Potential (-eV): 120 
+Ionization Potential: First  6.74, Second  14.65, Third  29.31 
+Incompatibilities: Strong oxidizers, ammonium nitrate (NH4NO3).  
+Flammability :Non-combustible solid (except as dust) 
